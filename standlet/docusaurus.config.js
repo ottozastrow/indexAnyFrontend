@@ -59,7 +59,7 @@ const config = {
         // Public API key: it is safe to commit it
         apiKey: 'c427f3cd1975141cf295efa3c2e71ec9',
   
-        indexName: 'EU745standard',
+        indexName: 'mdr_eu745',
   
         // Optional: see doc section below
         contextualSearch: true,
