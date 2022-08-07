@@ -99,28 +99,16 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Links',
             items: [
+              
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/otto-von-zastrow-marcks-631b74113/',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/OttoZastrow',
               },
             ],
           },
@@ -129,7 +117,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/ottozastrow',
               },
             ],
           },
