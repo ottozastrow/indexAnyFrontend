@@ -76,7 +76,7 @@ const config = {
         //... other Algolia params
       },
       navbar: {
-        title: 'My Site',
+        title: 'searchable version of EU MDR ',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -88,7 +88,6 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -128,10 +127,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
