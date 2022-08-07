@@ -11,7 +11,7 @@ const config = {
   url: 'https://docusaurus-2.netlify.app', // Url to your site with no trailing slash
   baseUrl: '/', // Base directory of your site relative to your repo
     // ...
-    onBrokenLinks: 'throw',
+    onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
@@ -76,7 +76,7 @@ const config = {
         //... other Algolia params
       },
       navbar: {
-        title: 'searchable version of EU MDR ',
+        title: 'standlet',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
