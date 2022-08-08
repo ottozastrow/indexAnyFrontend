@@ -69,6 +69,8 @@ const config = {
         searchParameters: {
           hitsPerPage: 10,
         },
+        attributesToRetrieve:["title", "section", "content"],
+  
         // Optional: path for search page that enabled by default (`false` to disable it)
         searchPagePath: 'search',
   
