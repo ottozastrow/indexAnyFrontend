@@ -1,8 +1,4 @@
-
-<meta data-rh="true" name="docsearch:language" content="en">
-<meta data-rh="true" name="docsearch:version" content="current">
-<meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current">
-        ---
+---
 sidebar_position: 76
 ---
            <p class="stitle-article-norm">Information from the sponsor at the end of a clinical investigation or in the event of a temporary halt or early termination</p>

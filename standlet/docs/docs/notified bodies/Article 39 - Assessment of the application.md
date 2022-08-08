@@ -1,8 +1,4 @@
-
-<meta data-rh="true" name="docsearch:language" content="en">
-<meta data-rh="true" name="docsearch:version" content="current">
-<meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current">
-        ---
+---
 sidebar_position: 38
 ---
            <p class="stitle-article-norm">Assessment of the application</p>

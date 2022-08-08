@@ -1,8 +1,4 @@
-
-<meta data-rh="true" name="docsearch:language" content="en">
-<meta data-rh="true" name="docsearch:version" content="current">
-<meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current">
-        ---
+---
 sidebar_position: 117
 ---
            <p class="stitle-article-norm">Amendment to Regulation&nbsp;(EC)&nbsp;No&nbsp;178/2002</p>

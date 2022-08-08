@@ -1,8 +1,4 @@
-
-<meta data-rh="true" name="docsearch:language" content="en">
-<meta data-rh="true" name="docsearch:version" content="current">
-<meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current">
-        ---
+---
 sidebar_position: 71
 ---
            <p class="stitle-article-norm">Conduct of a clinical investigation</p>

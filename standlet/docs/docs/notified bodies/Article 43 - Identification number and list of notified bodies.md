@@ -1,8 +1,4 @@
-
-<meta data-rh="true" name="docsearch:language" content="en">
-<meta data-rh="true" name="docsearch:version" content="current">
-<meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current">
-        ---
+---
 sidebar_position: 42
 ---
            <p class="stitle-article-norm">Identification number and list of notified bodies</p>

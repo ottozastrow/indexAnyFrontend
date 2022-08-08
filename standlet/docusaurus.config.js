@@ -62,7 +62,7 @@ const config = {
         indexName: 'mdr_eu745',
   
         // Optional: see doc section below
-        contextualSearch: false,
+        contextualSearch: true,
   
         // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.  
         // Optional: Algolia search parameters
@@ -72,7 +72,7 @@ const config = {
         attributesToRetrieve:["title", "section", "content"],
         attributesToHighlight:["content"],
         attributesToSnippet:["content"],
-        
+
 
         // Optional: path for search page that enabled by default (`false` to disable it)
         searchPagePath: 'search',
