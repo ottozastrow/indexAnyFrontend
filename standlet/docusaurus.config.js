@@ -70,7 +70,10 @@ const config = {
           hitsPerPage: 10,
         },
         attributesToRetrieve:["title", "section", "content"],
-  
+        attributesToHighlight:["content"],
+        attributesToSnippet:["content"],
+        
+
         // Optional: path for search page that enabled by default (`false` to disable it)
         searchPagePath: 'search',
   
