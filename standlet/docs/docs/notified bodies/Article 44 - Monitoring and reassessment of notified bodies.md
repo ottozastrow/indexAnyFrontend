@@ -67,7 +67,7 @@ address a particular issue or to verify compliance.</p>
    <p class="norm">8.&nbsp;&nbsp;The authority responsible for notified 
 bodies shall review the assessments by notified bodies of manufacturers'
  technical documentation, in particular the clinical evaluation 
-documentation as further outlined in Article&nbsp;45.</p>
+documentation as further outlined in [Article&nbsp;45](../notified bodiesArticle 45 - Review of notified body assessment of technical documentation and clinical evaluation documentation.md).</p>
    <p class="norm">9.&nbsp;&nbsp;The authority responsible for notified 
 bodies shall document and record any findings regarding non-compliance 
 of the notified body with the requirements set out in Annex&nbsp;VII and
@@ -82,7 +82,7 @@ which the body is established and by a joint assessment team appointed
 for the purpose of the procedure described in Articles&nbsp;38 
 and&nbsp;39.</p>
    <p class="norm">11.&nbsp;&nbsp;The Commission is empowered to adopt 
-delegated acts in accordance with Article&nbsp;115 in order to amend 
+delegated acts in accordance with [Article&nbsp;115](../final provisionsArticle 115 - Exercise of the delegation.md) in order to amend 
 paragraph&nbsp;10 to modify the frequency at which the complete 
 re-assessment referred to in that paragraph&nbsp;is to be carried out.</p>
    <p class="norm">12.&nbsp;&nbsp;The Member&nbsp;States shall report to
@@ -93,4 +93,4 @@ and, where applicable, subsidiaries and subcontractors. The report shall
 activities pursuant to paragraph&nbsp;7, and shall be treated as 
 confidential by the MDCG and the Commission; however it shall contain a 
 summary which shall be made publicly available.</p>
-   <p class="norm">The summary of the report shall be uploaded to the electronic system referred to in Article&nbsp;57.</p>
+   <p class="norm">The summary of the report shall be uploaded to the electronic system referred to in [Article&nbsp;57](../conformity assessmentArticle 57 - Electronic system on notified bodies and on certificates of conformity.md).</p>

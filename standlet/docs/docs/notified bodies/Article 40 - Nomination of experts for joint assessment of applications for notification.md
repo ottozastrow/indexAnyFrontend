@@ -11,4 +11,4 @@ participate in the activities referred to in Articles&nbsp;39 and 48.</p>
 together with information on their specific field of competence and 
 expertise. That list shall be made available to Member&nbsp;States 
 competent authorities through the electronic system referred to in 
-Article&nbsp;57.</p>
+[Article&nbsp;57](../conformity assessmentArticle 57 - Electronic system on notified bodies and on certificates of conformity.md).</p>

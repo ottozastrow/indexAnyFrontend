@@ -93,7 +93,7 @@ designated representative;</p>
          <span>(d)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">include information about the applicable damage compensation system referred to in Article&nbsp;69; and</p>
+         <p class="norm">include information about the applicable damage compensation system referred to in [Article&nbsp;69](../clinical evaluation and clinical investigationsArticle 69 - Damage compensation.md); and</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -103,7 +103,7 @@ designated representative;</p>
       <div class="grid-list-column-2">
          <p class="norm">include the Union-wide unique single 
 identification number of the clinical investigation referred to in 
-Article&nbsp;70(1) and information about the availability of the 
+[Article&nbsp;70](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)(1) and information about the availability of the 
 clinical investigation results in accordance with paragraph&nbsp;6 of 
 this Article.</p>
       </div>
@@ -122,8 +122,8 @@ subject has understood the information.</p>
    <p class="norm">6.&nbsp;&nbsp;The subject shall be informed that a 
 clinical investigation report and a summary presented in terms 
 understandable to the intended user will be made available pursuant to 
-Article&nbsp;77(5) in the electronic system on clinical investigations 
-referred to in Article&nbsp;73 irrespective of the outcome of the 
+[Article&nbsp;77](../clinical evaluation and clinical investigationsArticle 77 - Information from the sponsor at the end of a clinical investigation or in the event of a temporary halt or early termination.md)(5) in the electronic system on clinical investigations 
+referred to in [Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md) irrespective of the outcome of the 
 clinical investigation, and shall be informed, to the extent possible, 
 when they have become available.</p>
    <p class="norm">7.&nbsp;&nbsp;This Regulation is without prejudice to

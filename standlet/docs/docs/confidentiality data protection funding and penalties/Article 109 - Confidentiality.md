@@ -13,7 +13,7 @@ tasks in order to protect the following:</p>
          <span>(a)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">personal data, in accordance with Article&nbsp;110;</p>
+         <p class="norm">personal data, in accordance with [Article&nbsp;110](../confidentiality data protection funding and penaltiesArticle 110 - Data protection.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">

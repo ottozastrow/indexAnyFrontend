@@ -27,7 +27,7 @@ administrative practice between the authorities responsible for notified
          <span>(c)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">training and qualification of the experts referred to in Article&nbsp;40;</p>
+         <p class="norm">training and qualification of the experts referred to in [Article&nbsp;40](../notified bodiesArticle 40 - Nomination of experts for joint assessment of applications for notification.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -45,7 +45,7 @@ withdrawals and transfers between notified bodies;</p>
          <span>(e)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">monitoring of the application and applicability of scope codes referred to in Article&nbsp;42(13);</p>
+         <p class="norm">monitoring of the application and applicability of scope codes referred to in [Article&nbsp;42](../notified bodiesArticle 42 - Designation and notification procedure.md)(13);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -70,10 +70,10 @@ monitoring and surveillance activities of authorities and the Commission
 notified bodies shall participate in a peer review every third year 
 through the mechanism developed pursuant to paragraph&nbsp;1 of 
 this&nbsp;Article. Such reviews shall normally be conducted in parallel 
-with the on-site joint assessments described in Article&nbsp;39. 
+with the on-site joint assessments described in [Article&nbsp;39](../notified bodiesArticle 39 - Assessment of the application.md). 
 Alternatively, an authority may make the choice of having such reviews 
 take place as part of its monitoring activities referred to in 
-Article&nbsp;44.</p>
+[Article&nbsp;44](../notified bodiesArticle 44 - Monitoring and reassessment of notified bodies.md).</p>
    <p class="norm">3.&nbsp;&nbsp;The Commission shall participate in the
  organisation and provide support to the implementation of the peer 
 review mechanism.</p>
@@ -85,4 +85,4 @@ implementing acts, adopt measures setting out the detailed arrangements
 and related documents for the peer review mechanism and training and 
 qualification as referred to in paragraph&nbsp;1 of this Article. Those 
 implementing acts shall be adopted in accordance with the examination 
-procedure referred to in Article&nbsp;114(3).</p>
+procedure referred to in [Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)(3).</p>

@@ -28,12 +28,12 @@ action taken by the manufacturer within an appropriate deadline set by
 the notified body. The notified body shall give the reasons for its 
 decision.</p>
    <p class="norm">5.&nbsp;&nbsp;The notified body shall enter in the 
-electronic system referred to in Article&nbsp;57 any information 
+electronic system referred to in [Article&nbsp;57](../conformity assessmentArticle 57 - Electronic system on notified bodies and on certificates of conformity.md) any information 
 regarding certificates issued, including amendments and supplements 
 thereto, and regarding suspended, reinstated, withdrawn or refused 
 certificates and restrictions imposed on certificates. Such information 
 shall be accessible to the public.</p>
    <p class="norm">6.&nbsp;&nbsp;In the light of technical progress, the
  Commission is empowered to adopt delegated acts in accordance with 
-Article&nbsp;115 amending the minimum content of the certificates set 
+[Article&nbsp;115](../final provisionsArticle 115 - Exercise of the delegation.md) amending the minimum content of the certificates set 
 out in Annex&nbsp;XII.</p>

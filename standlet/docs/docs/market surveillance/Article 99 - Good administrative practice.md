@@ -29,6 +29,6 @@ demonstrating that it has taken effective corrective action and that the
    <p class="norm">4.&nbsp;&nbsp;Where a measure adopted pursuant to 
 Articles&nbsp;95 to 98 concerns a device for which a notified body has 
 been involved in the conformity assessment, the competent authorities 
-shall by means of the electronic system referred to in Article&nbsp;100 
+shall by means of the electronic system referred to in [Article&nbsp;100](../market surveillanceArticle 100 - Electronic system on market surveillance.md) 
 inform the relevant notified body and the authority responsible for the 
 notified body of the measure taken.</p>

@@ -10,7 +10,7 @@ notified body is designated for conformity assessment activities related
 application in parallel with another notified body for the same 
 conformity assessment procedure.</p>
    <p class="norm">2.&nbsp;&nbsp;The notified body concerned shall, by 
-means of the electronic system referred to in Article&nbsp;57, inform 
+means of the electronic system referred to in [Article&nbsp;57](../conformity assessmentArticle 57 - Electronic system on notified bodies and on certificates of conformity.md), inform 
 the other notified bodies of any manufacturer that withdraws its 
 application prior to the notified body's decision regarding the 
 conformity assessment.</p>

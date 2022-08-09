@@ -13,7 +13,7 @@ principles regarding risk assessment and risk management, vigilance data
  annual surveillance activity plans and allocate a sufficient number of 
 material and competent human resources in order to carry out those 
 activities taking into account the European market surveillance 
-programme developed by the MDCG pursuant to Article&nbsp;105 and local 
+programme developed by the MDCG pursuant to [Article&nbsp;105](../cooperation between memberstates  medical device coordination group expert laboratories expert panels  and device registersArticle 105 - Tasks of the MDCG.md) and local 
 circumstances.</p>
    <p class="norm">3.&nbsp;&nbsp;In order to fulfil the obligations laid down in paragraph&nbsp;1, the competent authorities:</p>
    <div class="grid-container grid-list">
@@ -42,7 +42,7 @@ necessary, at the facilities of professional users.</p>
    <p class="norm">4.&nbsp;&nbsp;The competent authorities shall prepare
  an annual summary of the results of their surveillance activities and 
 make it accessible to other competent authorities by means of the 
-electronic system referred to in Article&nbsp;100.</p>
+electronic system referred to in [[[Article&nbsp;100](../market surveillanceArticle 100 - Electronic system on market surveillance.md)](../market surveillanceArticle 100 - Electronic system on market surveillance.md)](../market surveillanceArticle 100 - Electronic system on market surveillance.md).</p>
    <p class="norm">5.&nbsp;&nbsp;The competent authorities may 
 confiscate, destroy or otherwise render inoperable devices that present 
 an unacceptable risk or falsified devices where they deem it necessary 
@@ -59,14 +59,14 @@ to in paragraph&nbsp;6 of this Article&nbsp;to the economic operator
 that has been the subject of the inspection. Before adopting the final 
 report, the competent authority shall give that economic operator the 
 opportunity to submit comments. That final inspection report shall be 
-entered in the electronic system provided for in Article&nbsp;100.</p>
+entered in the electronic system provided for in [[[Article&nbsp;100](../market surveillanceArticle 100 - Electronic system on market surveillance.md)](../market surveillanceArticle 100 - Electronic system on market surveillance.md)](../market surveillanceArticle 100 - Electronic system on market surveillance.md).</p>
    <p class="norm">8.&nbsp;&nbsp;The Member&nbsp;States shall review and
  assess the functioning of their market surveillance activities. Such 
 reviews and assessments shall be carried out at least every four years 
 and the results thereof shall be communicated to the other 
 Member&nbsp;States and the Commission. Each Member&nbsp;State shall make
  a summary of the results accessible to the public by means of the 
-electronic system referred to in Article&nbsp;100.</p>
+electronic system referred to in [[[Article&nbsp;100](../market surveillanceArticle 100 - Electronic system on market surveillance.md)](../market surveillanceArticle 100 - Electronic system on market surveillance.md)](../market surveillanceArticle 100 - Electronic system on market surveillance.md).</p>
    <p class="norm">9.&nbsp;&nbsp;The competent authorities of the 
 Member&nbsp;States shall coordinate their market surveillance 
 activities, cooperate with each other and share with each other and with

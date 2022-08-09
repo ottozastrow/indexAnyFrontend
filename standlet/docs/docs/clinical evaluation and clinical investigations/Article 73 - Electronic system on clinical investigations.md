@@ -10,7 +10,7 @@ system:</p>
          <span>(a)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">to create the single identification numbers for clinical investigations referred to in Article&nbsp;70(1);</p>
+         <p class="norm">to create the single identification numbers for clinical investigations referred to in [Article&nbsp;70](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)(1);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -41,7 +41,7 @@ exchange of information referred to in Articles&nbsp;70 and&nbsp;76;</p>
       </div>
       <div class="grid-list-column-2">
          <p class="norm">for information to be provided by the sponsor 
-in accordance with Article&nbsp;77, including the clinical investigation
+in accordance with [Article&nbsp;77](../clinical evaluation and clinical investigationsArticle 77 - Information from the sponsor at the end of a clinical investigation or in the event of a temporary halt or early termination.md), including the clinical investigation
  report and its summary as required in paragraph&nbsp;5 of that Article;</p>
       </div>
    </div>
@@ -50,14 +50,14 @@ in accordance with Article&nbsp;77, including the clinical investigation
          <span>(e)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">for reporting on serious adverse events and device deficiencies and related updates referred to in Article&nbsp;80.</p>
+         <p class="norm">for reporting on serious adverse events and device deficiencies and related updates referred to in [Article&nbsp;80](../clinical evaluation and clinical investigationsArticle 80 - Recording and reporting of adverse events that occur during clinical investigations.md).</p>
       </div>
    </div>
    <p class="norm">2.&nbsp;&nbsp;When setting up the electronic system 
 referred in paragraph&nbsp;1 of this Article, the Commission shall 
 ensure that it is interoperable with the EU database for clinical trials
  on medicinal products for human use set up in accordance with 
-Article&nbsp;81 of Regulation&nbsp;(EU)&nbsp;No&nbsp;536/2014 of the 
+[Article&nbsp;81](../clinical evaluation and clinical investigationsArticle 81 - Implementing acts.md) of Regulation&nbsp;(EU)&nbsp;No&nbsp;536/2014 of the 
 European Parliament and of the Council&nbsp;(<a href="#E0004" id="src.E0004">
          <span class="superscript">4</span>
       </a>) as concerns combined clinical investigations of devices with a clinical trial under that Regulation.</p>

@@ -4,7 +4,7 @@ sidebar_position: 41
            <p class="stitle-article-norm">Designation and notification procedure</p>
    <p class="norm">1.&nbsp;&nbsp;Member&nbsp;States may only designate 
 conformity assessment bodies for which the assessment pursuant to 
-Article&nbsp;39 was completed and which comply with Annex&nbsp;VII.</p>
+[[Article&nbsp;39](../notified bodiesArticle 39 - Assessment of the application.md)](../notified bodiesArticle 39 - Assessment of the application.md) was completed and which comply with Annex&nbsp;VII.</p>
    <p class="norm">2.&nbsp;&nbsp;Member&nbsp;States shall notify the 
 Commission and the other Member&nbsp;States of the conformity assessment
  bodies they have designated, using the electronic notification tool 
@@ -15,15 +15,15 @@ Commission&nbsp;(NANDO).</p>
 scope of the designation indicating the conformity assessment activities
  as defined in this Regulation and the types of devices which the 
 notified body is authorised to assess and, without prejudice to 
-Article&nbsp;44, any conditions associated with the designation.</p>
+[[Article&nbsp;44](../notified bodiesArticle 44 - Monitoring and reassessment of notified bodies.md)](../notified bodiesArticle 44 - Monitoring and reassessment of notified bodies.md), any conditions associated with the designation.</p>
    <p class="norm">4.&nbsp;&nbsp;The notification shall be accompanied 
 by the final assessment report of the authority responsible for notified
  bodies, the final opinion of the joint assessment team referred to in 
-Article&nbsp;39(9) and the recommendation of the MDCG. Where the 
+[[Article&nbsp;39](../notified bodiesArticle 39 - Assessment of the application.md)](../notified bodiesArticle 39 - Assessment of the application.md)(9) and the recommendation of the MDCG. Where the 
 notifying Member&nbsp;State does not follow the recommendation of the 
 MDCG, it shall provide a duly substantiated justification.</p>
    <p class="norm">5.&nbsp;&nbsp;The notifying Member&nbsp;State shall, 
-without prejudice to Article&nbsp;44, inform the Commission and the 
+without prejudice to [[Article&nbsp;44](../notified bodiesArticle 44 - Monitoring and reassessment of notified bodies.md)](../notified bodiesArticle 44 - Monitoring and reassessment of notified bodies.md), inform the Commission and the 
 other Member&nbsp;States of any conditions associated with the 
 designation and provide documentary evidence regarding the arrangements 
 in place to ensure that the notified body will be monitored regularly 
@@ -57,7 +57,7 @@ Commission shall publish in NANDO the notification within 14 days of
 being informed thereof.</p>
    <p class="norm">10.&nbsp;&nbsp;When publishing the notification in 
 NANDO, the Commission shall also add to the electronic system referred 
-to in Article&nbsp;57 the information relating to the notification of 
+to in [Article&nbsp;57](../conformity assessmentArticle 57 - Electronic system on notified bodies and on certificates of conformity.md) the information relating to the notification of 
 the notified body along with the documents mentioned in paragraph&nbsp;4
  of this Article&nbsp;and the opinion and responses referred to in 
 paragraphs 7 and 8 of this Article.</p>
@@ -73,5 +73,5 @@ designation has become valid in accordance with paragraph&nbsp;11.</p>
 corresponding types of devices for the purpose of specifying the scope 
 of the designation of notified bodies. Those implementing acts shall be 
 adopted in accordance with the examination procedure referred to in 
-Article&nbsp;114(3). The Commission, after consulting the MDCG, may 
-update this list based, <span class="italics">inter&nbsp;alia</span>, on information arising from the coordination activities described in Article&nbsp;48.</p>
+[Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)(3). The Commission, after consulting the MDCG, may 
+update this list based, <span class="italics">inter&nbsp;alia</span>, on information arising from the coordination activities described in [Article&nbsp;48](../notified bodiesArticle 48 - Peer review and exchange of experience between authorities responsible for notified bodies.md).</p>

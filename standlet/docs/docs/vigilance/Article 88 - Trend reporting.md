@@ -3,7 +3,7 @@ sidebar_position: 87
 ---
            <p class="stitle-article-norm">Trend reporting</p>
    <p class="norm">1.&nbsp;&nbsp;Manufacturers shall report, by means of
- the electronic system referred to in Article&nbsp;92, any statistically
+ the electronic system referred to in [Article&nbsp;92](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md), any statistically
  significant increase in the frequency or severity of incidents that are
  not serious incidents or that are expected undesirable side-effects 
 that could have a significant impact on the benefit-risk analysis <span>
@@ -23,7 +23,7 @@ incidents referred to in the first subparagraph&nbsp;and the methodology
  used for determining any statistically significant increase in the 
 frequency or severity of such incidents, as well as the observation 
 period, in the post-market surveillance plan referred to in 
-Article&nbsp;84.</p>
+[Article&nbsp;84](../postmarket surveillanceArticle 84 - Postmarket surveillance plan.md).</p>
    <p class="norm">2.&nbsp;&nbsp;The competent authorities may conduct 
 their own assessments on the trend reports referred to in 
 paragraph&nbsp;1 and require the manufacturer to adopt appropriate 

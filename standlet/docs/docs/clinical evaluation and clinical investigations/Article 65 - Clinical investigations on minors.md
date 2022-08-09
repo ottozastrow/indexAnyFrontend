@@ -3,7 +3,7 @@ sidebar_position: 64
 ---
            <p class="stitle-article-norm">Clinical investigations on minors</p>
    <p class="norm">A clinical investigation on minors may be conducted 
-only where, in addition to the conditions set out in Article&nbsp;62(4),
+only where, in addition to the conditions set out in [Article&nbsp;62](../clinical evaluation and clinical investigationsArticle 62 - General requirements regarding clinical investigations conducted to demonstrate conformity of devices.md)(4),
  all of the following conditions are met:</p>
    <div class="grid-container grid-list">
       <div class="list grid-list-column-1">
@@ -19,7 +19,7 @@ only where, in addition to the conditions set out in Article&nbsp;62(4),
       </div>
       <div class="grid-list-column-2">
          <p class="norm">the minors have received the information 
-referred to in Article&nbsp;63(2) in a way adapted to their age and 
+referred to in [[Article&nbsp;63](../clinical evaluation and clinical investigationsArticle 63 - Informed consent.md)](../clinical evaluation and clinical investigationsArticle 63 - Informed consent.md)(2) in a way adapted to their age and 
 mental maturity and from investigators or members of the investigating 
 team who are trained or experienced in working with children;</p>
       </div>
@@ -31,7 +31,7 @@ team who are trained or experienced in working with children;</p>
       <div class="grid-list-column-2">
          <p class="norm">the explicit wish of a minor who is capable of 
 forming an opinion and assessing the information referred to in 
-Article&nbsp;63(2) to refuse participation in, or to withdraw from, the 
+[[Article&nbsp;63](../clinical evaluation and clinical investigationsArticle 63 - Informed consent.md)](../clinical evaluation and clinical investigationsArticle 63 - Informed consent.md)(2) to refuse participation in, or to withdraw from, the 
 clinical investigation at any time, is respected by the investigator;</p>
       </div>
    </div>

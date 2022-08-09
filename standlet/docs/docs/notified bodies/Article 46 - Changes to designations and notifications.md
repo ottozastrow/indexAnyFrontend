@@ -5,14 +5,14 @@ sidebar_position: 45
    <p class="norm">1.&nbsp;&nbsp;The authority responsible for notified 
 bodies shall notify the Commission and the other Member&nbsp;States of 
 any relevant changes to the designation of a notified body.</p>
-   <p class="norm">The procedures described in Article&nbsp;39 and in Article&nbsp;42 shall apply to extensions of the scope of the designation.</p>
+   <p class="norm">The procedures described in [Article&nbsp;39](../notified bodiesArticle 39 - Assessment of the application.md) and in [Article&nbsp;42](../notified bodiesArticle 42 - Designation and notification procedure.md) shall apply to extensions of the scope of the designation.</p>
    <p class="norm">For changes to the designation other than extensions 
 of its scope, the procedures laid down in the following paragraphs shall
  apply.</p>
    <p class="norm">2.&nbsp;&nbsp;The Commission shall immediately 
 publish the amended notification in NANDO. The Commission shall 
 immediately enter information on the changes to the designation of the 
-notified body in the electronic system referred to in Article&nbsp;57.</p>
+notified body in the electronic system referred to in [[[Article&nbsp;57](../conformity assessmentArticle 57 - Electronic system on notified bodies and on certificates of conformity.md)](../conformity assessmentArticle 57 - Electronic system on notified bodies and on certificates of conformity.md)](../conformity assessmentArticle 57 - Electronic system on notified bodies and on certificates of conformity.md).</p>
    <p class="norm">3.&nbsp;&nbsp;Where a notified body decides to cease 
 its conformity assessment activities it shall inform the authority 
 responsible for notified bodies and the manufacturers concerned as soon 
@@ -86,7 +86,7 @@ safety of devices on the market;</p>
       </div>
       <div class="grid-list-column-2">
          <p class="norm">enter into the electronic system referred to in
- Article&nbsp;57 information in relation to certificates of which it has
+ [[[Article&nbsp;57](../conformity assessmentArticle 57 - Electronic system on notified bodies and on certificates of conformity.md)](../conformity assessmentArticle 57 - Electronic system on notified bodies and on certificates of conformity.md)](../conformity assessmentArticle 57 - Electronic system on notified bodies and on certificates of conformity.md) information in relation to certificates of which it has
  required their suspension or withdrawal;</p>
       </div>
    </div>
@@ -98,7 +98,7 @@ safety of devices on the market;</p>
          <p class="norm">inform the competent authority for medical 
 devices of the Member&nbsp;State in which the manufacturer has its 
 registered place of business through the electronic system referred to 
-in Article&nbsp;57 of the certificates for which it has required 
+in [[[Article&nbsp;57](../conformity assessmentArticle 57 - Electronic system on notified bodies and on certificates of conformity.md)](../conformity assessmentArticle 57 - Electronic system on notified bodies and on certificates of conformity.md)](../conformity assessmentArticle 57 - Electronic system on notified bodies and on certificates of conformity.md) of the certificates for which it has required 
 suspension or withdrawal. That competent authority shall take the 
 appropriate measures, where necessary to avoid a potential risk to the 
 health or safety of patients, users or others.</p>

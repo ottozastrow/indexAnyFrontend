@@ -24,6 +24,6 @@ of conformity, the manufacturer shall assume responsibility for
 compliance with the requirements of this Regulation and all other Union 
 legislation applicable to the device.</p>
    <p class="norm">4.&nbsp;&nbsp;The Commission is empowered to adopt 
-delegated acts in accordance with Article&nbsp;115 amending the minimum 
+delegated acts in accordance with [Article&nbsp;115](../final provisionsArticle 115 - Exercise of the delegation.md) amending the minimum 
 content of the EU declaration of conformity set out in Annex&nbsp;IV in 
 the light of technical progress.</p>

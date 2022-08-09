@@ -3,7 +3,7 @@ sidebar_position: 88
 ---
            <p class="stitle-article-norm">Analysis of serious incidents and field safety corrective actions</p>
    <p class="norm">1.&nbsp;&nbsp;Following the reporting of a serious 
-incident pursuant to Article&nbsp;87(1), the manufacturer shall, without
+incident pursuant to [[Article&nbsp;87](../vigilanceArticle 87 - Reporting of serious incidents and field safety corrective actions.md)](../vigilanceArticle 87 - Reporting of serious incidents and field safety corrective actions.md)(1), the manufacturer shall, without
  delay, perform the necessary investigations in relation to the serious 
 incident and the devices concerned. This shall include a risk assessment
  of the incident and field safety corrective action taking into account 
@@ -21,7 +21,7 @@ necessary steps to ensure that any information regarding a serious
 incident that has occurred within their territory, or a field safety 
 corrective action that has been or is to be undertaken within their 
 territory, and that is brought to their knowledge in accordance with 
-Article&nbsp;87 is evaluated centrally at national level by their 
+[[Article&nbsp;87](../vigilanceArticle 87 - Reporting of serious incidents and field safety corrective actions.md)](../vigilanceArticle 87 - Reporting of serious incidents and field safety corrective actions.md) is evaluated centrally at national level by their 
 competent authority, if possible together with the manufacturer, and, 
 where relevant, the notified body concerned.</p>
    <p class="norm">3.&nbsp;&nbsp;In the context of the evaluation 
@@ -46,32 +46,32 @@ or initiate an independent investigation.</p>
    <p class="norm">5.&nbsp;&nbsp;The manufacturer shall provide a final 
 report to the competent authority setting out its findings from the 
 investigation by means of the electronic system referred to in 
-Article&nbsp;92. The report shall set out conclusions and where relevant
+[[[[Article&nbsp;92](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md). The report shall set out conclusions and where relevant
  indicate corrective actions to be taken.</p>
    <p class="norm">6.&nbsp;&nbsp;In the case of devices referred to in 
-the first subparagraph&nbsp;of Article&nbsp;1(8) and where the serious 
+the first subparagraph&nbsp;of [[[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)(8) and where the serious 
 incident or field safety corrective action may be related to a substance
  which, if used separately, would be considered to be a medicinal 
 product, the evaluating competent authority or the coordinating 
 competent authority referred to in paragraph&nbsp;9 of this 
 Article&nbsp;shall, inform the national competent authority or the EMA, 
 depending on which issued the scientific opinion on that substance under
- Article&nbsp;52(9), of that serious incident or field safety corrective
+ [[Article&nbsp;52](../conformity assessmentArticle 52 - Conformity assessment procedures.md)](../conformity assessmentArticle 52 - Conformity assessment procedures.md)(9), of that serious incident or field safety corrective
  action.</p>
    <p class="norm">In the case of devices covered by this Regulation in 
-accordance with point&nbsp;(g) of Article&nbsp;1(6) and where the 
+accordance with point&nbsp;(g) of [[[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)(6) and where the 
 serious incident or field safety corrective action may be related to the
  derivatives of tissues or cells of human origin utilised for&nbsp;the 
 manufacture of the device, and in the case of devices falling under this
- Regulation pursuant to Article&nbsp;1(10), the&nbsp;competent authority
+ Regulation pursuant to [[[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)(10), the&nbsp;competent authority
  or the coordinating competent authority referred to in paragraph&nbsp;9
  of this Article&nbsp;shall inform the competent authority for human 
 tissues and cells that was consulted by the notified body in accordance 
-with Article&nbsp;52(10).</p>
+with [[Article&nbsp;52](../conformity assessmentArticle 52 - Conformity assessment procedures.md)](../conformity assessmentArticle 52 - Conformity assessment procedures.md)(10).</p>
    <p class="norm">7.&nbsp;&nbsp;After carrying out the evaluation in 
 accordance with paragraph&nbsp;3 of this Article, the evaluating 
 competent authority shall, through the electronic system referred to in 
-Article&nbsp;92, inform, without delay, the other competent authorities 
+[[[[Article&nbsp;92](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md), inform, without delay, the other competent authorities 
 of the corrective action taken or envisaged by the manufacturer or 
 required of it to minimise the risk of recurrence of the serious 
 incident, including information on the underlying events and the outcome
@@ -99,7 +99,7 @@ reference to the device malfunction and associated risks for patients,
 users or other persons, and shall clearly indicate all the actions to be
  taken by users.</p>
    <p class="norm">The manufacturer shall enter the field safety notice 
-in the electronic system referred to in Article&nbsp;92 through which 
+in the electronic system referred to in [[[[Article&nbsp;92](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md) through which 
 that notice shall be accessible to the public.</p>
    <p class="norm">9.&nbsp;&nbsp;The competent authorities shall 
 actively participate in a procedure in order to coordinate their 
@@ -149,7 +149,7 @@ authorities, the coordinating competent authority shall be the competent
  authority of the Member&nbsp;State in which the manufacturer has its 
 registered place of business.</p>
    <p class="norm">The coordinating competent authority shall, through 
-the electronic system referred to in Article&nbsp;92, inform the 
+the electronic system referred to in [[[[Article&nbsp;92](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md), inform the 
 manufacturer, the other competent authorities and the Commission that it
  has assumed the role of coordinating authority.</p>
    <p class="norm">10.&nbsp;&nbsp;The designation of a coordinating 

@@ -4,7 +4,7 @@ sidebar_position: 65
            <p class="stitle-article-norm">Clinical investigations on pregnant or breastfeeding women</p>
    <p class="norm">A clinical investigation on pregnant or breastfeeding
  women may be conducted only where, in addition to the conditions set 
-out in Article&nbsp;62(4), all of the following conditions are met:</p>
+out in [Article&nbsp;62](../clinical evaluation and clinical investigationsArticle 62 - General requirements regarding clinical investigations conducted to demonstrate conformity of devices.md)(4), all of the following conditions are met:</p>
    <div class="grid-container grid-list">
       <div class="list grid-list-column-1">
          <span>(a)&nbsp;</span>

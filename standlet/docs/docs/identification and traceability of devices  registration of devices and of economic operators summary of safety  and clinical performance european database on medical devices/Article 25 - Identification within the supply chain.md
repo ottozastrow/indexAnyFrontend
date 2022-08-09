@@ -7,7 +7,7 @@ co-operate with manufacturers or authorised representatives to achieve
 an appropriate level of traceability of devices.</p>
    <p class="norm">2.&nbsp;&nbsp;Economic operators shall be able to 
 identify the following to the competent authority, for the period 
-referred to in Article&nbsp;10(8):</p>
+referred to in [Article&nbsp;10](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 10 - General obligations of manufacturers.md)(8):</p>
    <div class="grid-container grid-list">
       <div class="list grid-list-column-1">
          <span>(a)&nbsp;</span>

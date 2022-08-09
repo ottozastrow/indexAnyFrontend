@@ -15,7 +15,7 @@ Articles&nbsp;92(5) and (7), the following:</p>
 available on the Union market, except expected side-effects which are 
 clearly documented in the product information and quantified in the 
 technical documentation and are subject to trend reporting pursuant to 
-Article&nbsp;88;</p>
+[[Article&nbsp;88](../vigilanceArticle 88 - Trend reporting.md)](../vigilanceArticle 88 - Trend reporting.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -33,7 +33,7 @@ device made available in the third country.</p>
    </div>
    <p class="norm">The reports referred to in the first 
 subparagraph&nbsp;shall be submitted through the electronic system 
-referred to in Article&nbsp;92.</p>
+referred to in [[[Article&nbsp;92](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md).</p>
    <p class="norm">2.&nbsp;&nbsp;As a general rule, the period for the 
 reporting referred to in paragraph&nbsp;1 shall take account of the 
 severity of the serious incident.</p>
@@ -74,11 +74,11 @@ has been identified or a field safety corrective action implemented or
 where the incidents are common and well documented, the manufacturer may
  provide periodic summary reports instead of individual serious incident
  reports, on condition that the coordinating competent authority 
-referred to in Article&nbsp;89(9), in consultation with the competent 
-authorities referred to in point&nbsp;(a) of Article&nbsp;92(8), has 
+referred to in [[[Article&nbsp;89](../vigilanceArticle 89 - Analysis of serious incidents and field safety corrective actions.md)](../vigilanceArticle 89 - Analysis of serious incidents and field safety corrective actions.md)](../vigilanceArticle 89 - Analysis of serious incidents and field safety corrective actions.md)(9), in consultation with the competent 
+authorities referred to in point&nbsp;(a) of [[[Article&nbsp;92](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)(8), has 
 agreed with the manufacturer on the format, content and frequency of the
  periodic summary reporting. Where a single competent authority is 
-referred to in points (a) and (b) of Article&nbsp;92(8), the 
+referred to in points (a) and (b) of [[[Article&nbsp;92](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md)(8), the 
 manufacturer may provide periodic summary reports following agreement 
 with that competent authority.</p>
    <p class="norm">10.&nbsp;&nbsp;The Member&nbsp;States shall take 
@@ -100,13 +100,13 @@ considers that the incident is a serious incident, it shall provide a
 report in accordance with paragraphs 1 to 5 of this Article&nbsp;on that
  serious incident to the competent authority of the Member&nbsp;State in
  which that serious incident occurred and shall take the appropriate 
-follow-up action in accordance with Article&nbsp;89.</p>
+follow-up action in accordance with [[[Article&nbsp;89](../vigilanceArticle 89 - Analysis of serious incidents and field safety corrective actions.md)](../vigilanceArticle 89 - Analysis of serious incidents and field safety corrective actions.md)](../vigilanceArticle 89 - Analysis of serious incidents and field safety corrective actions.md).</p>
    <p class="norm">Where the manufacturer of the device concerned 
 considers that the incident is not a serious incident or is an expected 
 undesirable side-effect, which will be covered by trend reporting in 
-accordance with Article&nbsp;88, it shall provide an explanatory 
+accordance with [[Article&nbsp;88](../vigilanceArticle 88 - Trend reporting.md)](../vigilanceArticle 88 - Trend reporting.md), it shall provide an explanatory 
 statement. If the competent authority does not agree with the conclusion
  of the explanatory statement, it may require the manufacturer to 
 provide a report in accordance with paragraphs 1 to 5 of this 
 Article&nbsp;and require it to ensure that appropriate follow-up action 
-is taken in accordance with Article&nbsp;89.</p>
+is taken in accordance with [[[Article&nbsp;89](../vigilanceArticle 89 - Analysis of serious incidents and field safety corrective actions.md)](../vigilanceArticle 89 - Analysis of serious incidents and field safety corrective actions.md)](../vigilanceArticle 89 - Analysis of serious incidents and field safety corrective actions.md).</p>

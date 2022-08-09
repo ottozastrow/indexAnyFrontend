@@ -11,7 +11,7 @@ be written in a way that is clear to the intended user and, if relevant,
    <p class="norm">The draft of the summary of safety and clinical 
 performance shall be part of the documentation to be submitted to the 
 notified body involved in the conformity assessment pursuant to 
-Article&nbsp;52 and shall be validated by that body. After its 
+[Article&nbsp;52](../conformity assessmentArticle 52 - Conformity assessment procedures.md) and shall be validated by that body. After its 
 validation, the notified body shall upload the summary to Eudamed. The 
 manufacturer shall mention on the label or instructions for use where 
 the summary is available.</p>
@@ -88,4 +88,4 @@ intended to be used in combination with the device;</p>
 implementing acts, set out the form and the presentation of the data 
 elements to be included in the summary of safety and clinical 
 performance. Those implementing acts shall be adopted in accordance with
- the advisory procedure referred to in Article&nbsp;114(2).</p>
+ the advisory procedure referred to in [Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)(2).</p>

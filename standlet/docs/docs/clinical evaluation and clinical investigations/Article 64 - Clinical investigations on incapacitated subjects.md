@@ -6,7 +6,7 @@ sidebar_position: 63
 who have not given, or have not refused to give, informed consent before
  the onset of their incapacity, a clinical investigation may be 
 conducted only where, in addition to the conditions set out in 
-Article&nbsp;62(4), all of the following conditions are met:</p>
+[Article&nbsp;62](../clinical evaluation and clinical investigationsArticle 62 - General requirements regarding clinical investigations conducted to demonstrate conformity of devices.md)(4), all of the following conditions are met:</p>
    <div class="grid-container grid-list">
       <div class="list grid-list-column-1">
          <span>(a)&nbsp;</span>
@@ -21,7 +21,7 @@ Article&nbsp;62(4), all of the following conditions are met:</p>
       </div>
       <div class="grid-list-column-2">
          <p class="norm">the incapacitated subjects have received the 
-information referred to in Article&nbsp;63(2) in a way that is adequate 
+information referred to in [[Article&nbsp;63](../clinical evaluation and clinical investigationsArticle 63 - Informed consent.md)](../clinical evaluation and clinical investigationsArticle 63 - Informed consent.md)(2) in a way that is adequate 
 in view of their capacity to understand it;</p>
       </div>
    </div>
@@ -32,7 +32,7 @@ in view of their capacity to understand it;</p>
       <div class="grid-list-column-2">
          <p class="norm">the explicit wish of an incapacitated subject 
 who is capable of forming an opinion and assessing the information 
-referred to in Article&nbsp;63(2) to refuse participation in, or to 
+referred to in [[Article&nbsp;63](../clinical evaluation and clinical investigationsArticle 63 - Informed consent.md)](../clinical evaluation and clinical investigationsArticle 63 - Informed consent.md)(2) to refuse participation in, or to 
 withdraw from, the clinical investigation at any time, is respected by 
 the investigator;</p>
       </div>

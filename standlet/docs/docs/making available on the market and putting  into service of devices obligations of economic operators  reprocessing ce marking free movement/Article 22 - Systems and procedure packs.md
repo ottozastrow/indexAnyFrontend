@@ -86,7 +86,7 @@ original intended purpose, or where the sterilisation has not been
 carried out in accordance with the manufacturer's instructions, the 
 system or procedure pack shall be treated as a device in its own right 
 and shall be subject to the relevant conformity assessment procedure 
-pursuant to Article&nbsp;52. The natural or legal person shall assume 
+pursuant to [Article&nbsp;52](../conformity assessmentArticle 52 - Conformity assessment procedures.md). The natural or legal person shall assume 
 the obligations incumbent on manufacturers.</p>
    <p class="norm">5.&nbsp;&nbsp;The systems or procedure packs referred
  to in paragraph&nbsp;1 of this Article&nbsp;shall not themselves bear 
@@ -99,5 +99,5 @@ referred to in Section&nbsp;23 of Annex&nbsp;I. The statement referred
 to in paragraph&nbsp;2 of this Article&nbsp;shall be kept at the 
 disposal of the competent authorities, after the system or procedure 
 pack has been put together, for the period that is applicable under 
-Article&nbsp;10(8) to the devices that have been combined. Where those 
+[Article&nbsp;10](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 10 - General obligations of manufacturers.md)(8) to the devices that have been combined. Where those 
 periods differ, the longest period shall apply.</p>

@@ -62,7 +62,7 @@ resolve issues of divergent interpretation and of practical application.</p>
    <p class="norm">6.&nbsp;&nbsp;The implementing acts referred to in 
 paragraphs 3, 4 and 5 of this Article&nbsp;shall be adopted in 
 accordance with the examination procedure referred to in 
-Article&nbsp;114(3).</p>
+[Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)(3).</p>
    <p>
       
       

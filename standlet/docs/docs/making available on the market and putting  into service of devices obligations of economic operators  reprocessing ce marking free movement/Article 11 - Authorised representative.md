@@ -36,9 +36,9 @@ that an appropriate conformity assessment procedure has been carried out
          <p class="norm">keep available a copy of the technical 
 documentation, the EU declaration of conformity and, if applicable, a 
 copy of the relevant certificate, including any amendments and 
-supplements, issued in accordance with Article&nbsp;56, at the disposal 
+supplements, issued in accordance with [Article&nbsp;56](../conformity assessmentArticle 56 - Certificates of conformity.md), at the disposal 
 of competent authorities for the period referred to in 
-Article&nbsp;10(8);</p>
+[[[Article&nbsp;10](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 10 - General obligations of manufacturers.md)](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 10 - General obligations of manufacturers.md)](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 10 - General obligations of manufacturers.md)(8);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -47,7 +47,7 @@ Article&nbsp;10(8);</p>
       </div>
       <div class="grid-list-column-2">
          <p class="norm">comply with the registration obligations laid 
-down in Article&nbsp;31 and verify that the manufacturer has complied 
+down in [Article&nbsp;31](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 31 - Registration of manufacturers authorised representatives and importers.md) and verify that the manufacturer has complied 
 with the registration obligations laid down in Articles&nbsp;27 and 29;</p>
       </div>
    </div>
@@ -106,12 +106,12 @@ designated;</p>
    </div>
    <p class="norm">4.&nbsp;&nbsp;The mandate referred to in 
 paragraph&nbsp;3 of this Article&nbsp;shall not delegate the 
-manufacturer's obligations laid down in Article&nbsp;10(1), (2), (3), 
+manufacturer's obligations laid down in [[[Article&nbsp;10](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 10 - General obligations of manufacturers.md)](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 10 - General obligations of manufacturers.md)](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 10 - General obligations of manufacturers.md)(1), (2), (3), 
 (4), (6), (7), (9), (10), (11) and (12).</p>
    <p class="norm">5.&nbsp;&nbsp;Without prejudice to paragraph&nbsp;4 
 of this Article, where the manufacturer is not established in a 
 Member&nbsp;State and has not complied with the obligations laid down in
- Article&nbsp;10, the authorised representative shall be legally liable 
+ [[[Article&nbsp;10](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 10 - General obligations of manufacturers.md)](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 10 - General obligations of manufacturers.md)](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 10 - General obligations of manufacturers.md), the authorised representative shall be legally liable 
 for defective devices on the same basis as, and jointly and severally 
 with, the manufacturer.</p>
    <p class="norm">6.&nbsp;&nbsp;An authorised representative who 

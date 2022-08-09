@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
            <p class="stitle-article-norm">Common specifications</p>
-   <p class="norm">1.&nbsp;&nbsp;Without prejudice to Article&nbsp;1(2) 
+   <p class="norm">1.&nbsp;&nbsp;Without prejudice to [Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)(2) 
 and 17(5) and the deadline laid down in those provisions, where no 
 harmonised standards exist or where relevant harmonised standards are 
 not sufficient, or where there is a need to address public health 
@@ -14,7 +14,7 @@ clinical evaluation and post-market clinical follow-up set out in
 Annex&nbsp;XIV or the requirements regarding clinical investigation set 
 out in Annex&nbsp;XV. Those implementing acts shall be adopted in 
 accordance with the examination procedure referred to in 
-Article&nbsp;114(3).</p>
+[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)14(3).</p>
    <p class="norm">2.&nbsp;&nbsp;Devices that are in conformity with the
  CS referred to in paragraph&nbsp;1 shall be presumed to be in 
 conformity with the requirements of this Regulation covered by those CS 

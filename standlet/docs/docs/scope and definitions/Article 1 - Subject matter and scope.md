@@ -10,7 +10,7 @@ investigations concerning such medical devices and accessories conducted
  in the Union.</p>
    <p class="norm">2.&nbsp;&nbsp;This Regulation shall also apply, as 
 from the date of application of common specifications adopted pursuant 
-to Article&nbsp;9, to the groups of products without an intended medical
+to [Article&nbsp;9](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 9 - Common specifications.md), to the groups of products without an intended medical
  purpose that are listed in Annex&nbsp;XVI, taking into account the 
 state of the art, and in particular existing harmonised standards for 
 analogous devices with a medical purpose, based on similar technology. 
@@ -21,7 +21,7 @@ where necessary, clinical evaluation regarding safety.</p>
    <p class="norm">The necessary common specifications shall be adopted 
 by 26 May 2020. They shall apply as from six months after the date of 
 their entry into force or from 26 May 2020, whichever is the latest.</p>
-   <p class="norm">Notwithstanding Article&nbsp;122, Member&nbsp;States'
+   <p class="norm">Notwithstanding [[[[[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)22](../final provisionsArticle 122 - Repeal.md), Member&nbsp;States'
  measures regarding the qualification of the products covered by 
 Annex&nbsp;XVI as medical devices pursuant to Directive&nbsp;93/42/EEC 
 shall remain valid until the date of application, as referred to in the 
@@ -42,7 +42,7 @@ paragraph&nbsp;2 shall hereinafter be referred to as ‘devices’.</p>
 similarity between a device with an intended medical purpose placed on 
 the market and a product without an intended medical purpose in respect 
 of their characteristics and risks, the Commission is empowered to adopt
- delegated acts in accordance with Article&nbsp;115 to amend the list in
+ delegated acts in accordance with [[[[[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)15](../final provisionsArticle 115 - Exercise of the delegation.md) to amend the list in
  Annex&nbsp;XVI, by adding new groups of products, in order to protect 
 the health and safety of users or other persons or other aspects of 
 public health.</p>
@@ -62,7 +62,7 @@ public health.</p>
       </div>
       <div class="grid-list-column-2">
          <p class="norm">medicinal products as defined in point&nbsp;2 
-of Article&nbsp;1 of Directive&nbsp;2001/83/EC. In deciding whether a 
+of [[[[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md) of Directive&nbsp;2001/83/EC. In deciding whether a 
 product falls under Directive&nbsp;2001/83/EC or under this Regulation, 
 particular account shall be taken of the principal mode of action of the
  product;</p>
@@ -140,17 +140,17 @@ purpose of the product;</p>
       </div>
    </div>
    <p class="norm">7.&nbsp;&nbsp;Any device which, when placed on the market or put into service, incorporates as an integral part an <span class="italics">in vitro</span>
- diagnostic medical device as defined in point&nbsp;2 of Article&nbsp;2 
+ diagnostic medical device as defined in point&nbsp;2 of [[[Article&nbsp;2](../scope and definitionsArticle 2 - Definitions.md)](../scope and definitionsArticle 2 - Definitions.md)](../scope and definitionsArticle 2 - Definitions.md) 
 of Regulation&nbsp;(EU)&nbsp;2017/746, shall be governed by this 
 Regulation. The requirements of Regulation&nbsp;(EU)&nbsp;2017/746 shall
  apply to the <span class="italics">in vitro</span> diagnostic medical device part of the device.</p>
    <p class="norm">8.&nbsp;&nbsp;Any device which, when placed on the 
 market or put into service, incorporates, as an integral part, a 
 substance which, if used separately, would be considered to be a 
-medicinal product as defined in point&nbsp;2 of Article&nbsp;1 of 
+medicinal product as defined in point&nbsp;2 of [[[[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md) of 
 Directive&nbsp;2001/83/EC, including a medicinal product derived from 
 human blood or human plasma as defined in point&nbsp;10 of 
-Article&nbsp;1 of that Directive, and that has an action ancillary to 
+[[[[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md) of that Directive, and that has an action ancillary to 
 that of the device, shall be assessed and authorised in accordance with 
 this Regulation.</p>
    <p class="norm">However, if the action of that substance is principal
@@ -165,7 +165,7 @@ shall apply as far as the safety and performance of the device part are
 concerned.</p>
    <p class="norm">9.&nbsp;&nbsp;Any device which is intended to 
 administer a medicinal product as defined in point&nbsp;2 of 
-Article&nbsp;1 of Directive&nbsp;2001/83/EC shall be governed by this 
+[[[[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md) of Directive&nbsp;2001/83/EC shall be governed by this 
 Regulation, without prejudice to the provisions of that 
 Directive&nbsp;and of Regulation&nbsp;(EC)&nbsp;No&nbsp;726/2004 with 
 regard to the medicinal product.</p>
@@ -195,11 +195,11 @@ general safety and performance requirements set out in Annex&nbsp;I to
 this Regulation shall apply as far as the safety and performance of the 
 device part are concerned.</p>
    <p class="norm">11.&nbsp;&nbsp;This Regulation is specific Union 
-legislation within the meaning of Article&nbsp;2(3) of 
+legislation within the meaning of [[[Article&nbsp;2](../scope and definitionsArticle 2 - Definitions.md)](../scope and definitionsArticle 2 - Definitions.md)](../scope and definitionsArticle 2 - Definitions.md)(3) of 
 Directive&nbsp;2014/30/EU.</p>
    <p class="norm">12.&nbsp;&nbsp;Devices that are also machinery within
  the meaning of point&nbsp;(a) of the second paragraph&nbsp;of 
-Article&nbsp;2 of Directive&nbsp;2006/42/EC of the European Parliament 
+[[[Article&nbsp;2](../scope and definitionsArticle 2 - Definitions.md)](../scope and definitionsArticle 2 - Definitions.md)](../scope and definitionsArticle 2 - Definitions.md) of Directive&nbsp;2006/42/EC of the European Parliament 
 and of the Council&nbsp;(<a href="#E0002" id="src.E0002">
          <span class="superscript">2</span>
       </a>) shall, where a hazard relevant under that 
@@ -222,5 +222,5 @@ specific professional counselling.</p>
    <p class="norm">16.&nbsp;&nbsp;Nothing in this Regulation shall 
 restrict the freedom of the press or the freedom of expression in the 
 media in so far as those freedoms are guaranteed in the Union and in the
- Member&nbsp;States, in particular under Article&nbsp;11 of the Charter 
+ Member&nbsp;States, in particular under [[[[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)1 of the Charter 
 of Fundamental Rights of the European Union.</p>

@@ -3,7 +3,7 @@ sidebar_position: 95
 ---
            <p class="stitle-article-norm">Procedure for evaluating national measures at Union level</p>
    <p class="norm">1.&nbsp;&nbsp;Where, within two months of receipt of 
-the notification referred to in Article&nbsp;95(4), objections are 
+the notification referred to in [[[Article&nbsp;95](../market surveillanceArticle 95 - Procedure for dealing with devices presenting an unacceptable risk to health and safety.md)](../market surveillanceArticle 95 - Procedure for dealing with devices presenting an unacceptable risk to health and safety.md)](../market surveillanceArticle 95 - Procedure for dealing with devices presenting an unacceptable risk to health and safety.md)(4), objections are 
 raised by a Member&nbsp;State against a measure taken by another 
 Member&nbsp;State, or where the Commission considers the measure to be 
 contrary to Union law, the Commission shall, after consulting the 
@@ -12,15 +12,15 @@ operators concerned, evaluate that national measure. On the basis of the
  results of that evaluation, the Commission may decide, by means of 
 implementing acts, whether or not the national measure is justified. 
 Those implementing acts shall be adopted in accordance with the 
-examination procedure referred to in Article&nbsp;114(3).</p>
+examination procedure referred to in [[Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)](../final provisionsArticle 114 - Committee procedure.md)(3).</p>
    <p class="norm">2.&nbsp;&nbsp;Where the Commission considers the 
 national measure to be justified as referred to in paragraph&nbsp;1 of 
-this Article, the second subparagraph&nbsp;of Article&nbsp;95(7) shall 
+this Article, the second subparagraph&nbsp;of [[[Article&nbsp;95](../market surveillanceArticle 95 - Procedure for dealing with devices presenting an unacceptable risk to health and safety.md)](../market surveillanceArticle 95 - Procedure for dealing with devices presenting an unacceptable risk to health and safety.md)](../market surveillanceArticle 95 - Procedure for dealing with devices presenting an unacceptable risk to health and safety.md)(7) shall 
 apply. If the Commission considers the national measure to be 
 unjustified, the Member&nbsp;State concerned shall withdraw the measure.</p>
    <p class="norm">Where the Commission does not adopt a decision 
 pursuant to paragraph&nbsp;1 of this Article&nbsp;within eight months of
- receipt of the notification referred to in Article&nbsp;95(4), the 
+ receipt of the notification referred to in [[[Article&nbsp;95](../market surveillanceArticle 95 - Procedure for dealing with devices presenting an unacceptable risk to health and safety.md)](../market surveillanceArticle 95 - Procedure for dealing with devices presenting an unacceptable risk to health and safety.md)](../market surveillanceArticle 95 - Procedure for dealing with devices presenting an unacceptable risk to health and safety.md)(4), the 
 national measure shall be considered to be justified.</p>
    <p class="norm">3.&nbsp;&nbsp;Where a Member&nbsp;State or the 
 Commission considers that the risk to health and safety emanating from a
@@ -32,4 +32,4 @@ measures to ensure the protection of health and safety, including
 measures restricting or prohibiting the placing on the market and 
 putting into service of the device concerned. Those implementing acts 
 shall be adopted in accordance with the examination procedure referred 
-to in Article&nbsp;114(3).</p>
+to in [[Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)](../final provisionsArticle 114 - Committee procedure.md)(3).</p>

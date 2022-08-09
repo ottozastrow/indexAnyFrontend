@@ -47,7 +47,7 @@ patients;</p>
          <p class="norm">timelines for the reporting of field safety 
 corrective actions, and for the provision by manufacturers of periodic 
 summary reports and trend reports, taking into account the severity of 
-the incident to be reported as referred to in Article&nbsp;87;</p>
+the incident to be reported as referred to in [Article&nbsp;87](../vigilanceArticle 87 - Reporting of serious incidents and field safety corrective actions.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -55,7 +55,7 @@ the incident to be reported as referred to in Article&nbsp;87;</p>
          <span>(e)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">harmonised forms for the exchange of information between competent authorities as referred to in Article&nbsp;89;</p>
+         <p class="norm">harmonised forms for the exchange of information between competent authorities as referred to in [Article&nbsp;89](../vigilanceArticle 89 - Analysis of serious incidents and field safety corrective actions.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -72,4 +72,4 @@ process.</p>
    </div>
    <p class="norm">The implementing acts referred to in the first 
 paragraph&nbsp;shall be adopted in accordance with the examination 
-procedure referred to in Article&nbsp;114(3).</p>
+procedure referred to in [Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)(3).</p>

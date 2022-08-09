@@ -27,8 +27,8 @@ body has based its assessment. Such reviews shall be conducted utilising
  CS.</p>
    <p class="norm">4.&nbsp;&nbsp;Those reviews shall also form part of 
 the re-assessment of notified bodies in accordance with 
-Article&nbsp;44(10) and the joint assessment activities referred to in 
-Article&nbsp;47(3). The reviews shall be conducted utilising appropriate
+[Article&nbsp;44](../notified bodiesArticle 44 - Monitoring and reassessment of notified bodies.md)(10) and the joint assessment activities referred to in 
+[Article&nbsp;47](../notified bodiesArticle 47 - Challenge to the competence of notified bodies.md)(3). The reviews shall be conducted utilising appropriate
  expertise.</p>
    <p class="norm">5.&nbsp;&nbsp;Based on the reports of the reviews and
  assessments by the authority responsible for notified bodies or joint 
@@ -46,4 +46,4 @@ implementing acts, adopt measures setting out the detailed arrangements,
 assessments of technical documentation and clinical evaluation 
 documentation, as referred to in this Article. Those implementing acts 
 shall be adopted in accordance with the examination procedure referred 
-to in Article&nbsp;114(3).</p>
+to in [Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)(3).</p>

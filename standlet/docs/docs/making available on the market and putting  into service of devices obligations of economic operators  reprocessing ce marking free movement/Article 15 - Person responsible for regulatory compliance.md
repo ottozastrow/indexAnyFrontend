@@ -63,7 +63,7 @@ the devices are manufactured, before a device is released;</p>
          <span>(c)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">the post-market surveillance obligations are complied with in accordance with Article&nbsp;10(10);</p>
+         <p class="norm">the post-market surveillance obligations are complied with in accordance with [Article&nbsp;10](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 10 - General obligations of manufacturers.md)(10);</p>
       </div>
    </div>
    <div class="grid-container grid-list">

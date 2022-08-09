@@ -5,9 +5,9 @@ sidebar_position: 54
    <p class="norm">1.&nbsp;&nbsp;A notified body shall notify the 
 competent authorities of certificates it has granted to devices for 
 which the conformity assessment has been performed pursuant to 
-Article&nbsp;54(1). Such notification shall take place through the 
-electronic system referred to in Article&nbsp;57 and shall include the 
-summary of safety and clinical performance pursuant to Article&nbsp;32, 
+[Article&nbsp;54](../conformity assessmentArticle 54 - Clinical evaluation consultation procedure for certain class III and class IIb devices.md)(1). Such notification shall take place through the 
+electronic system referred to in [Article&nbsp;57](../conformity assessmentArticle 57 - Electronic system on notified bodies and on certificates of conformity.md) and shall include the 
+summary of safety and clinical performance pursuant to [Article&nbsp;32](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 32 - Summary of safety and clinical performance.md), 
 the assessment report by the notified body, the instructions for use 
 referred to in Section&nbsp;23.4 of Annex&nbsp;I, and, where applicable,
  the scientific opinion of the expert panels referred to in 
@@ -16,7 +16,7 @@ applicable. In the case of divergent views between the notified body and
  the expert panels, a full justification shall also be included.</p>
    <p class="norm">2.&nbsp;&nbsp;A competent authority and, where 
 applicable, the Commission may, based on reasonable concerns apply 
-further procedures in accordance with Article&nbsp;44, 45, 46, 47 or 94 
+further procedures in accordance with [Article&nbsp;44](../notified bodiesArticle 44 - Monitoring and reassessment of notified bodies.md), 45, 46, 47 or 94 
 and, where deemed necessary, take appropriate measures in accordance 
 with Articles&nbsp;95 and&nbsp;97.</p>
    <p class="norm">3.&nbsp;&nbsp;The MDCG and, where applicable, the 

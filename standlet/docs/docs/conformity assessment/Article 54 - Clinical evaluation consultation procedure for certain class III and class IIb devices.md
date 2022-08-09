@@ -3,7 +3,7 @@ sidebar_position: 53
 ---
            <p class="stitle-article-norm">Clinical evaluation consultation procedure for certain class III and class IIb devices</p>
    <p class="norm">1.&nbsp;&nbsp;In addition to the procedures 
-applicable pursuant to Article&nbsp;52, a notified body shall also 
+applicable pursuant to [Article&nbsp;52](../conformity assessmentArticle 52 - Conformity assessment procedures.md), a notified body shall also 
 follow the procedure regarding clinical evaluation consultation as 
 specified in Section&nbsp;5.1 of Annex&nbsp;IX or as referred to in 
 Section&nbsp;6 of Annex&nbsp;X, as applicable, when performing a 
@@ -54,7 +54,7 @@ adversely affect the benefit-risk ratio of the device; or</p>
       <div class="grid-list-column-2">
          <p class="norm">where the principles of the clinical evaluation
  of the device type or category have been addressed in a CS referred to 
-in Article&nbsp;9 and the notified body confirms that the clinical 
+in [Article&nbsp;9](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 9 - Common specifications.md) and the notified body confirms that the clinical 
 evaluation of the manufacturer for this device is in compliance with the
  relevant CS for clinical evaluation of that kind of device.</p>
       </div>
@@ -62,7 +62,7 @@ evaluation of the manufacturer for this device is in compliance with the
    <p class="norm">3.&nbsp;&nbsp;The notified body shall notify the 
 competent authorities, the authority responsible for notified bodies and
  the Commission through the electronic system referred to in 
-Article&nbsp;57 of whether or not the procedure referred to in 
+[Article&nbsp;57](../conformity assessmentArticle 57 - Electronic system on notified bodies and on certificates of conformity.md) of whether or not the procedure referred to in 
 paragraph&nbsp;1 of this Article&nbsp;is to be applied. That 
 notification shall be accompanied by the clinical evaluation assessment 
 report.</p>

@@ -11,7 +11,7 @@ and performance requirements set out in Annex&nbsp;I which apply to it,
 taking into account its intended purpose.</p>
    <p class="norm">3.&nbsp;&nbsp;Demonstration of conformity with the 
 general safety and performance requirements shall include a clinical 
-evaluation in accordance with Article&nbsp;61.</p>
+evaluation in accordance with [Article&nbsp;61](../clinical evaluation and clinical investigationsArticle 61 - Clinical evaluation.md).</p>
    <p class="norm">4.&nbsp;&nbsp;Devices that are manufactured and used 
 within health institutions shall be considered as having been put into 
 service.</p>
@@ -138,4 +138,4 @@ application of Annex&nbsp;I, the Commission may adopt implementing acts
 to the extent necessary to resolve issues of divergent interpretation 
 and of practical application. Those implementing acts shall be adopted 
 in accordance with the examination procedure referred to in 
-Article&nbsp;114(3).</p>
+[Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)(3).</p>

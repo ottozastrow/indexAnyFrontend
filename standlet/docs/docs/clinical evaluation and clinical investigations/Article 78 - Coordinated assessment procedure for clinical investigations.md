@@ -3,9 +3,9 @@ sidebar_position: 77
 ---
            <p class="stitle-article-norm">Coordinated assessment procedure for clinical investigations</p>
    <p class="norm">1.&nbsp;&nbsp;By means of the electronic system 
-referred to in Article&nbsp;73, the sponsor of a clinical investigation 
+referred to in [[[[Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md), the sponsor of a clinical investigation 
 to be conducted in more than one Member&nbsp;State may submit, for the 
-purpose of Article&nbsp;70, a single application that, upon receipt, is 
+purpose of [[[[Article&nbsp;70](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md), a single application that, upon receipt, is 
 transmitted electronically to all Member&nbsp;States in which the 
 clinical investigation is to be conducted.</p>
    <p class="norm">2.&nbsp;&nbsp;The sponsor shall propose in the single
@@ -25,7 +25,7 @@ II of Annex&nbsp;XV.</p>
    <p class="norm">However, the completeness of the documentation 
 referred to in Sections 1.13, 3.1.3, 4.2, 4.3 and 4.4 of Chapter II of 
 Annex&nbsp;XV shall be assessed separately by each Member&nbsp;State 
-concerned in accordance with Article&nbsp;70(1) to (5).</p>
+concerned in accordance with [[[[Article&nbsp;70](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)(1) to (5).</p>
    <p class="norm">4.&nbsp;&nbsp;With regard to documentation other than
  that referred to in the second subparagraph&nbsp;of paragraph&nbsp;3, 
 the coordinating Member&nbsp;State shall:</p>
@@ -57,7 +57,7 @@ application, take into account any considerations submitted within seven
          <p class="norm">within 10 days of the notification date, assess
  whether the clinical investigation falls within the scope of this 
 Regulation and whether the application is complete, and shall notify the
- sponsor accordingly. Article&nbsp;70(1) and (3) to (5) shall apply to 
+ sponsor accordingly. [[[[Article&nbsp;70](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)(1) and (3) to (5) shall apply to 
 the coordinating Member&nbsp;State in relation to that assessment;</p>
       </div>
    </div>
@@ -80,7 +80,7 @@ Member&nbsp;States concerned.</p>
    </div>
    <p class="norm">The final assessment report shall be taken into 
 account by all Member&nbsp;States concerned when deciding on the 
-sponsor's application in accordance with Article&nbsp;70(7).</p>
+sponsor's application in accordance with [[[[Article&nbsp;70](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)(7).</p>
    <p class="norm">5.&nbsp;&nbsp;As regards the assessment of the 
 documentation referred to in the second subparagraph&nbsp;of 
 paragraph&nbsp;3, each Member&nbsp;State concerned may request, on a 
@@ -102,13 +102,13 @@ concerned when deciding on the sponsor's application. Such implementing
 acts may also set out the procedures and timescales for coordinated 
 assessment in the case of substantial modifications pursuant to 
 paragraph&nbsp;12 of this Article, in the case of reporting of adverse 
-events pursuant to Article&nbsp;80(4) and in the case of clinical 
+events pursuant to [Article&nbsp;80](../clinical evaluation and clinical investigationsArticle 80 - Recording and reporting of adverse events that occur during clinical investigations.md)(4) and in the case of clinical 
 investigations of combination products between medical devices and 
 medicinal products, where the latter are under a concurrent coordinated 
 assessment of a clinical trial under 
 Regulation&nbsp;(EU)&nbsp;No&nbsp;536/2014. Those implementing acts 
 shall be adopted in accordance with the examination procedure referred 
-to in Article&nbsp;114(3).</p>
+to in [Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)(3).</p>
    <p class="norm">8.&nbsp;&nbsp;Where the conclusion of the 
 coordinating Member&nbsp;State concerning the area of coordinated 
 assessment is that the conduct of the clinical investigation is 
@@ -156,7 +156,7 @@ Member&nbsp;State concerned;</p>
 disagrees with the conclusion on the basis of the second 
 subparagraph&nbsp;of this paragraph, it shall communicate its 
 disagreement, together with a detailed justification, through the 
-electronic system referred to in Article&nbsp;73, to the Commission, to 
+electronic system referred to in [[[[Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md), to the Commission, to 
 all other Member&nbsp;States concerned and to the sponsor.</p>
    <p class="norm">9.&nbsp;&nbsp;Where the conclusion of the 
 coordinating Member&nbsp;State concerning the area of coordinated 
@@ -176,7 +176,7 @@ Member&nbsp;State. That Member&nbsp;State shall provide for an appeal
 procedure in respect of such refusal.</p>
    <p class="norm">11.&nbsp;&nbsp;Each Member&nbsp;State concerned shall
  notify the sponsor through the electronic system referred to in 
-Article&nbsp;73 as to whether the clinical investigation is authorised, 
+[[[[Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md) as to whether the clinical investigation is authorised, 
 whether it is authorised subject to conditions, or whether authorisation
  has been refused. Notification shall be done by way of one single 
 decision within five days of the transmission, pursuant to 
@@ -186,9 +186,9 @@ Member&nbsp;State of the final assessment report. Where an authorisation
 may only be such that, by their nature, they cannot be fulfilled at the 
 time of that authorisation.</p>
    <p class="norm">12.&nbsp;&nbsp;Any substantial modifications as 
-referred to in Article&nbsp;75 shall be notified to the 
+referred to in [Article&nbsp;75](../clinical evaluation and clinical investigationsArticle 75 - Substantial modifications to clinical investigations.md) shall be notified to the 
 Member&nbsp;States concerned by means of the electronic system referred 
-to in Article&nbsp;73. Any assessment as to whether there are grounds 
+to in [[[[Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md). Any assessment as to whether there are grounds 
 for disagreement as referred to in the second subparagraph&nbsp;of 
 paragraph&nbsp;8 of this Article&nbsp;shall be carried out under the 
 direction of the coordinating Member&nbsp;State, except for substantial 

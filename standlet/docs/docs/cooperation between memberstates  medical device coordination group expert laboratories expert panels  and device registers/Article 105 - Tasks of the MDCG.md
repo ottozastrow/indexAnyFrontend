@@ -20,7 +20,7 @@ provisions set out in Chapter IV;</p>
       <div class="grid-list-column-2">
          <p class="norm">to advise the Commission, at its request, in 
 matters concerning the coordination group of notified bodies as 
-established pursuant to Article&nbsp;49;</p>
+established pursuant to [Article&nbsp;49](../notified bodiesArticle 49 - Coordination of notified bodies.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -72,7 +72,7 @@ Member&nbsp;States in their coordination activities in particular in the
 including the development and maintenance of a framework for a European 
 market surveillance programme with the objective of achieving efficiency
  and harmonisation of market surveillance in the Union, in accordance 
-with Article&nbsp;93;</p>
+with [Article&nbsp;93](../market surveillanceArticle 93 - Market surveillance activities.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">

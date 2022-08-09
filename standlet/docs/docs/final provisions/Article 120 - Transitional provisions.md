@@ -69,7 +69,7 @@ may carry out the conformity assessment procedures laid down in this
 Regulation and issue certificates in accordance with this Regulation 
 prior to 26 May 2020.</p>
    <p class="norm">7.&nbsp;&nbsp;As regards devices subject to the 
-consultation procedure laid down in Article&nbsp;54, paragraph&nbsp;5 of
+consultation procedure laid down in [Article&nbsp;54](../conformity assessmentArticle 54 - Clinical evaluation consultation procedure for certain class III and class IIb devices.md), paragraph&nbsp;5 of
  this Article&nbsp;shall apply provided that the necessary appointments 
 to the MDCG and expert panels have been made.</p>
    <p class="modref">
@@ -95,24 +95,24 @@ Article 11(5) of Directive 90/385/EEC or Article 16(5) of Directive
    </p>
    <p class="norm">9.&nbsp;&nbsp;Authorisations granted by the competent
  authorities of the Member&nbsp;States in accordance with 
-Article&nbsp;9(9) of Directive&nbsp;90/385/EEC or Article&nbsp;11(13) of
+[Article&nbsp;9](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 9 - Common specifications.md)(9) of Directive&nbsp;90/385/EEC or [[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)1](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 11 - Authorised representative.md)(13) of
  Directive&nbsp;93/42/EEC shall keep the validity indicated in the 
 authorisation.</p>
    <p class="norm">10.&nbsp;&nbsp;<span>
          <a href="https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32017R0745R%2801%29" onclick="window.open(this.href,'_blanc'); return false;" title="32017R0745R(01): REPLACED">
             <span class="boldface">►C1</span>
          </a><a class="anchorarrow" id="C1-7" href="#C1-8"><i class="fa fa-arrow-down" title="NEXT" ></i></a>
-      </span>&nbsp;Devices falling within the scope of this Regulation in accordance with point (g) of Article&nbsp;1(6) which<span class="boldface">&nbsp;◄ </span>
+      </span>&nbsp;Devices falling within the scope of this Regulation in accordance with point (g) of [Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)(6) which<span class="boldface">&nbsp;◄ </span>
  have been legally placed on the market or put into service in 
 accordance with the rules in force in the Member&nbsp;States prior to 26
  May 2020 may continue to be placed on the market and put into service 
 in the Member&nbsp;States concerned.</p>
    <p class="norm">11.&nbsp;&nbsp;Clinical investigations which have 
-started to be conducted in accordance with Article&nbsp;10 of 
-Directive&nbsp;90/385/EEC or Article&nbsp;15 of Directive&nbsp;93/42/EEC
+started to be conducted in accordance with [Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)0 of 
+Directive&nbsp;90/385/EEC or [Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)5 of Directive&nbsp;93/42/EEC
  prior to 26 May 2020 may continue to be conducted. As of 26 May 2020, 
 however, the reporting of serious adverse events and device deficiencies
  shall be carried out in accordance with this Regulation.</p>
    <p class="norm">12.&nbsp;&nbsp;Until the Commission has designated, 
-pursuant to Article&nbsp;27(2), issuing entities, GS1, HIBCC and ICCBBA 
+pursuant to [Article&nbsp;27](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 27 - Unique Device Identification system.md)(2), issuing entities, GS1, HIBCC and ICCBBA 
 shall be considered to be designated issuing entities.</p>

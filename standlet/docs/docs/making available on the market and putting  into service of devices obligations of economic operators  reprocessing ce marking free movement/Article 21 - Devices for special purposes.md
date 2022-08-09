@@ -10,8 +10,8 @@ sidebar_position: 20
       <div class="grid-list-column-2">
          <p class="norm">investigational devices being supplied to an 
 investigator for the purpose of a clinical investigation if they meet 
-the conditions laid down in Articles&nbsp;62 to 80 and Article&nbsp;82, 
-in the implementing acts adopted pursuant to Article&nbsp;81 and in 
+the conditions laid down in Articles&nbsp;62 to 80 and [Article&nbsp;82](../clinical evaluation and clinical investigationsArticle 82 - Requirements regarding other clinical investigations.md), 
+in the implementing acts adopted pursuant to [Article&nbsp;81](../clinical evaluation and clinical investigationsArticle 81 - Implementing acts.md) and in 
 Annex&nbsp;XV;</p>
       </div>
    </div>
@@ -20,12 +20,12 @@ Annex&nbsp;XV;</p>
          <span>(b)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">custom-made devices being made available on the market if Article&nbsp;52(8) and Annex&nbsp;XIII have been complied with.</p>
+         <p class="norm">custom-made devices being made available on the market if [Article&nbsp;52](../conformity assessmentArticle 52 - Conformity assessment procedures.md)(8) and Annex&nbsp;XIII have been complied with.</p>
       </div>
    </div>
    <p class="norm">The devices referred to in the first 
 subparagraph&nbsp;shall not bear the CE marking, with the exception of 
-the devices referred to in Article&nbsp;74.</p>
+the devices referred to in [Article&nbsp;74](../clinical evaluation and clinical investigationsArticle 74 - Clinical investigations regarding devices bearing the CE marking.md).</p>
    <p class="norm">2.&nbsp;&nbsp;Custom-made devices shall be 
 accompanied by the statement referred to in Section&nbsp;1 of 
 Annex&nbsp;XIII, which shall be made available to the particular patient

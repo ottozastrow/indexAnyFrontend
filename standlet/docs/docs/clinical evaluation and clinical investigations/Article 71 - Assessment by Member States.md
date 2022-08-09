@@ -99,7 +99,7 @@ Directive&nbsp;2001/83/EC.</p>
          <span>(a)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">the application dossier submitted pursuant to Article&nbsp;70(1) remains incomplete;</p>
+         <p class="norm">the application dossier submitted pursuant to [Article&nbsp;70](../clinical evaluation and clinical investigationsArticle 70 - Application for clinical investigations.md)(1) remains incomplete;</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -120,7 +120,7 @@ subjects or patients,</p>
          <span>(c)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">the requirements of Article&nbsp;62 are not met, or</p>
+         <p class="norm">the requirements of [Article&nbsp;62](../clinical evaluation and clinical investigationsArticle 62 - General requirements regarding clinical investigations conducted to demonstrate conformity of devices.md) are not met, or</p>
       </div>
    </div>
    <div class="grid-container grid-list">

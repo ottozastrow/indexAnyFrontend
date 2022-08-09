@@ -5,13 +5,13 @@ sidebar_position: 73
    <p class="norm">1.&nbsp;&nbsp;Where a clinical investigation is to be
  conducted to further assess, within the scope of its intended purpose, a
  device which already bears the CE marking in accordance with 
-Article&nbsp;20(1), (‘PMCF investigation’), and where the investigation 
+[[Article&nbsp;20](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 20 - CE marking of conformity.md)](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 20 - CE marking of conformity.md)(1), (‘PMCF investigation’), and where the investigation 
 would involve submitting subjects to procedures additional to those 
 performed under the normal conditions of use of the device and those 
 additional procedures are invasive or burdensome, the sponsor shall 
 notify the Member&nbsp;States concerned at least 30 days prior to its 
 commencement by means of the electronic system referred to in 
-Article&nbsp;73. The sponsor shall include the documentation referred to
+[Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md). The sponsor shall include the documentation referred to
  in Chapter II of Annex&nbsp;XV as part of the notification. Points (b) 
 to (k) and (m) <span>
          <a href="https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32017R0745R%2801%29" onclick="window.open(this.href,'_blanc'); return false;" title="32017R0745R(01): REPLACED">
@@ -21,4 +21,4 @@ to (k) and (m) <span>
    <p class="norm">2.&nbsp;&nbsp;Where a clinical investigation is to be
  conducted to assess, outside the scope of its intended purpose, a 
 device which already bears the CE marking in accordance with 
-Article&nbsp;20(1), Articles&nbsp;62 to 81 shall apply.</p>
+[[Article&nbsp;20](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 20 - CE marking of conformity.md)](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 20 - CE marking of conformity.md)(1), Articles&nbsp;62 to 81 shall apply.</p>

@@ -4,21 +4,21 @@ sidebar_position: 28
            <p class="stitle-article-norm">Registration of devices</p>
    <p class="norm">1.&nbsp;&nbsp;Before placing a device, other than a 
 custom-made device, on the market, the manufacturer shall, in accordance
- with the rules of the issuing entity referred to in Article&nbsp;27(2),
+ with the rules of the issuing entity referred to in [Article&nbsp;27](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 27 - Unique Device Identification system.md)(2),
  assign a Basic UDI-DI as defined in Part C of Annex&nbsp;VI to the 
 device and shall provide it to the UDI database together with the other 
 core data elements referred to in Part B of Annex&nbsp;VI related to 
 that device.</p>
    <p class="norm">2.&nbsp;&nbsp;Before placing on the market a system 
-or procedure pack pursuant to Article&nbsp;22(1) and (3), that is not a 
+or procedure pack pursuant to [Article&nbsp;22](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 22 - Systems and procedure packs.md)(1) and (3), that is not a 
 custom-made device, the natural or legal person responsible shall assign
  to the system or procedure pack, in compliance with the rules of the 
 issuing entity, a Basic UDI-DI and shall provide it to the UDI database 
 together with the other core data elements referred to in Part B of 
 Annex&nbsp;VI related to that system or procedure pack.</p>
    <p class="norm">3.&nbsp;&nbsp;For devices that are the subject of a 
-conformity assessment as referred to in Article&nbsp;52(3) and in the 
-second and third subparagraphs&nbsp;of Article&nbsp;52(4), the 
+conformity assessment as referred to in [[Article&nbsp;52](../conformity assessmentArticle 52 - Conformity assessment procedures.md)](../conformity assessmentArticle 52 - Conformity assessment procedures.md)(3) and in the 
+second and third subparagraphs&nbsp;of [[Article&nbsp;52](../conformity assessmentArticle 52 - Conformity assessment procedures.md)](../conformity assessmentArticle 52 - Conformity assessment procedures.md)(4), the 
 assignment of a Basic UDI-DI referred to in paragraph&nbsp;1 of this 
 Article&nbsp;shall be done before the manufacturer applies to a notified
  body for that assessment.</p>

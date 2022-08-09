@@ -42,4 +42,4 @@ assessment, designation and notification of conformity assessment bodies
 significant impact on such tasks.</p>
    <p class="norm">8.&nbsp;&nbsp;The authority responsible for notified 
 bodies shall participate in the peer-review activities provided for in 
-Article&nbsp;48.</p>
+[Article&nbsp;48](../notified bodiesArticle 48 - Peer review and exchange of experience between authorities responsible for notified bodies.md).</p>

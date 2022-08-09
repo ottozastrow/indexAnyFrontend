@@ -59,7 +59,7 @@ Article&nbsp;respectively;</p>
          <span>(d)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">establishment of an electronic system for Unique Device Identification&nbsp;(‘UDI database’) in accordance with Article&nbsp;28.</p>
+         <p class="norm">establishment of an electronic system for Unique Device Identification&nbsp;(‘UDI database’) in accordance with [[Article&nbsp;28](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 28 - UDI database.md)](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 28 - UDI database.md).</p>
       </div>
    </div>
    <p class="norm">2.&nbsp;&nbsp;The Commission shall, by means of 
@@ -151,16 +151,16 @@ created in compliance with the rules of the issuing entity designated by
 investigational device, is placed on the market the manufacturer shall 
 ensure that the information referred to in Part B of Annex&nbsp;VI of 
 the device in question are correctly submitted and transferred to the 
-UDI database referred to in Article&nbsp;28.</p>
+UDI database referred to in [[Article&nbsp;28](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 28 - UDI database.md)](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 28 - UDI database.md).</p>
    <p class="norm">4.&nbsp;&nbsp;UDI carriers shall be placed on the 
 label of the device and on all higher levels of packaging. Higher levels
  of packaging shall not be understood to include shipping containers.</p>
    <p class="norm">5.&nbsp;&nbsp;The UDI shall be used for reporting 
 serious incidents and field safety corrective actions in accordance with
- Article&nbsp;87.</p>
+ [Article&nbsp;87](../vigilanceArticle 87 - Reporting of serious incidents and field safety corrective actions.md).</p>
    <p class="norm">6.&nbsp;&nbsp;The Basic UDI-DI, as defined in Part C 
 of Annex&nbsp;VI, of the device shall appear on the EU&nbsp;declaration 
-of conformity referred to in Article&nbsp;19.</p>
+of conformity referred to in [Article&nbsp;19](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 19 - EU declaration of conformity.md).</p>
    <p class="norm">7.&nbsp;&nbsp;As part of the technical documentation 
 referred to in Annex&nbsp;II, the manufacturer shall keep up-to-date a 
 list of all UDIs that it has assigned.</p>
@@ -195,7 +195,7 @@ of the devices with which they have been supplied.</p>
    <p class="norm">Member&nbsp;States shall encourage, and may require, 
 healthcare professionals to store and keep preferably by electronic 
 means, the UDI of the devices with which they have been supplied with.</p>
-   <p class="norm">10.&nbsp;&nbsp;The Commission is empowered to adopt delegated acts in accordance with Article&nbsp;115:</p>
+   <p class="norm">10.&nbsp;&nbsp;The Commission is empowered to adopt delegated acts in accordance with [Article&nbsp;115](../final provisionsArticle 115 - Exercise of the delegation.md):</p>
    <div class="grid-container grid-list">
       <div class="list grid-list-column-1">
          <span>(a)&nbsp;</span>
@@ -236,7 +236,7 @@ application in relation to any of the following:</p>
    </div>
    <p class="norm">The implementing acts referred to in the first 
 subparagraph&nbsp;shall be adopted in accordance with the examination 
-procedure referred to in Article&nbsp;114(3).</p>
+procedure referred to in [Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)(3).</p>
    <p class="norm">12.&nbsp;&nbsp;When adopting the measures referred to
  in paragraph&nbsp;11, the Commission shall take into account all of the
  following:</p>

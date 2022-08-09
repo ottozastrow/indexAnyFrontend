@@ -2,21 +2,21 @@
 sidebar_position: 3
 ---
            <p class="stitle-article-norm">Regulatory status of products</p>
-   <p class="norm">1.&nbsp;&nbsp;Without prejudice to Article&nbsp;2(2) 
+   <p class="norm">1.&nbsp;&nbsp;Without prejudice to [Article&nbsp;2](../scope and definitionsArticle 2 - Definitions.md)(2) 
 of Directive&nbsp;2001/83/EC, upon a duly substantiated request of a 
 Member&nbsp;State, the Commission shall, after consulting the Medical 
-Device Coordination Group established under Article&nbsp;103 of this 
+Device Coordination Group established under [Article&nbsp;103](../cooperation between memberstates  medical device coordination group expert laboratories expert panels  and device registersArticle 103 - Medical Device Coordination Group.md) of this 
 Regulation&nbsp;(‘MDCG’), by means of implementing acts, determine 
 whether or not a specific product, or category or group of products, 
 falls within the definitions of ‘medical device’ or ‘accessory for a 
 medical device’. Those implementing acts shall be adopted in accordance 
-with the examination procedure referred to in Article&nbsp;114(3) of 
+with the examination procedure referred to in [[Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)](../final provisionsArticle 114 - Committee procedure.md)(3) of 
 this Regulation.</p>
    <p class="norm">2.&nbsp;&nbsp;The Commission may also, on its own 
 initiative, after consulting the MDCG, decide, by means of implementing 
 acts, on the issues referred to in paragraph&nbsp;1 of this Article. 
 Those implementing acts shall be adopted in accordance with the 
-examination procedure referred to in Article&nbsp;114(3).</p>
+examination procedure referred to in [[Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)](../final provisionsArticle 114 - Committee procedure.md)(3).</p>
    <p class="norm">3.&nbsp;&nbsp;The Commission shall ensure that Member&nbsp;States share expertise in the fields of medical devices, <span class="italics">in vitro</span>
  diagnostic medical devices, medicinal products, human tissues and 
 cells, cosmetics, biocides, food and, if necessary, other products, in 

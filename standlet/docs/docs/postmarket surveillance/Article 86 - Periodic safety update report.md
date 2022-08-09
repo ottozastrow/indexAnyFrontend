@@ -7,7 +7,7 @@ and class III devices shall prepare a periodic safety update report
 (‘PSUR’) for each device and where relevant for each category or group 
 of devices summarising the results and conclusions of the analyses of 
 the post-market surveillance data gathered as a result of the 
-post-market surveillance plan referred to in Article&nbsp;84 together 
+post-market surveillance plan referred to in [Article&nbsp;84](../postmarket surveillanceArticle 84 - Postmarket surveillance plan.md) together 
 with a rationale and description of any preventive and corrective 
 actions taken. Throughout the lifetime of the device concerned, that 
 PSUR shall set out:</p>
@@ -49,8 +49,8 @@ documentation as specified in Annexes&nbsp;II and&nbsp;III.</p>
    <p class="norm">For custom-made devices, the PSUR shall be part of the documentation referred to in Section&nbsp;2 of Annex&nbsp;XIII.</p>
    <p class="norm">2.&nbsp;&nbsp;For class III devices or implantable 
 devices, manufacturers shall submit PSURs by means of the electronic 
-system referred to in Article&nbsp;92 to the notified body involved in 
-the conformity assessment in accordance with Article&nbsp;52. The 
+system referred to in [Article&nbsp;92](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md) to the notified body involved in 
+the conformity assessment in accordance with [Article&nbsp;52](../conformity assessmentArticle 52 - Conformity assessment procedures.md). The 
 notified body shall review the report and add its evaluation to that 
 electronic system with details of any action taken. Such PSURs and the 
 evaluation by the notified body shall be made available to competent 

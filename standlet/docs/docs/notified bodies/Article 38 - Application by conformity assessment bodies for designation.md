@@ -17,7 +17,7 @@ certificate and the corresponding evaluation report delivered by a
 national accreditation body in accordance with 
 Regulation&nbsp;(EC)&nbsp;No&nbsp;765/2008 may be submitted and shall be
  taken into consideration during the assessment described in 
-Article&nbsp;39. However, the applicant shall make available all the 
+[Article&nbsp;39](../notified bodiesArticle 39 - Assessment of the application.md). However, the applicant shall make available all the 
 documentation referred to in the first subparagraph&nbsp;to demonstrate 
 compliance with those requirements upon request.</p>
    <p class="norm">3.&nbsp;&nbsp;The notified body shall update the 

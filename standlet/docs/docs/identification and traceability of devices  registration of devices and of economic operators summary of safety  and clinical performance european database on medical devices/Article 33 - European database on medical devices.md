@@ -31,7 +31,7 @@ issued by notified bodies and about the relevant economic operators;</p>
          <p class="norm">to enable the public to be adequately informed 
 about clinical investigations and to enable sponsors of clinical 
 investigations to comply with obligations under Articles&nbsp;62 to 80, 
-Article&nbsp;82, and any acts adopted pursuant to Article&nbsp;81;</p>
+[Article&nbsp;82](../clinical evaluation and clinical investigationsArticle 82 - Requirements regarding other clinical investigations.md), and any acts adopted pursuant to [Article&nbsp;81](../clinical evaluation and clinical investigationsArticle 81 - Implementing acts.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -41,7 +41,7 @@ Article&nbsp;82, and any acts adopted pursuant to Article&nbsp;81;</p>
       <div class="grid-list-column-2">
          <p class="norm">to enable manufacturers to comply with the 
 information obligations laid down in Articles&nbsp;87 to 90 or in any 
-acts adopted pursuant to Article&nbsp;91;</p>
+acts adopted pursuant to [Article&nbsp;91](../vigilanceArticle 91 - Implementing acts.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -61,7 +61,7 @@ cooperation between them.</p>
          <span>(a)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">the electronic system for registration of devices referred to in Article&nbsp;29(4);</p>
+         <p class="norm">the electronic system for registration of devices referred to in [Article&nbsp;29](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 29 - Registration of devices.md)(4);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -69,7 +69,7 @@ cooperation between them.</p>
          <span>(b)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">the UDI-database referred to in Article&nbsp;28;</p>
+         <p class="norm">the UDI-database referred to in [Article&nbsp;28](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 28 - UDI database.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -77,7 +77,7 @@ cooperation between them.</p>
          <span>(c)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">the electronic system on registration of economic operators referred to in Article&nbsp;30;</p>
+         <p class="norm">the electronic system on registration of economic operators referred to in [Article&nbsp;30](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 30 - Electronic system for registration of economic operators.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -85,7 +85,7 @@ cooperation between them.</p>
          <span>(d)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">the electronic system on notified bodies and on certificates referred to in Article&nbsp;57;</p>
+         <p class="norm">the electronic system on notified bodies and on certificates referred to in [Article&nbsp;57](../conformity assessmentArticle 57 - Electronic system on notified bodies and on certificates of conformity.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -93,7 +93,7 @@ cooperation between them.</p>
          <span>(e)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">the electronic system on clinical investigations referred to in Article&nbsp;73;</p>
+         <p class="norm">the electronic system on clinical investigations referred to in [Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -101,7 +101,7 @@ cooperation between them.</p>
          <span>(f)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">the electronic system on vigilance and post-market surveillance referred to in Article&nbsp;92;</p>
+         <p class="norm">the electronic system on vigilance and post-market surveillance referred to in [Article&nbsp;92](../vigilanceArticle 92 - Electronic system on vigilance and on postmarket surveillance.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -109,7 +109,7 @@ cooperation between them.</p>
          <span>(g)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">the electronic system on market surveillance referred to in Article&nbsp;100.</p>
+         <p class="norm">the electronic system on market surveillance referred to in [[Article&nbsp;10](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 10 - General obligations of manufacturers.md)0](../market surveillanceArticle 100 - Electronic system on market surveillance.md).</p>
       </div>
    </div>
    <p class="norm">3.&nbsp;&nbsp;When designing Eudamed the Commission 
@@ -132,7 +132,7 @@ only insofar as necessary for the electronic systems referred to in
 paragraph&nbsp;2 of this Article&nbsp;to collate and process information
  in accordance with this Regulation. Personal data shall be kept in a 
 form which permits identification of data subjects for periods no longer
- than those referred to in Article&nbsp;10(8).</p>
+ than those referred to in [Article&nbsp;10](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 10 - General obligations of manufacturers.md)(8).</p>
    <p class="norm">7.&nbsp;&nbsp;The Commission and the 
 Member&nbsp;States shall ensure that data subjects may effectively 
 exercise their rights to information, of access, to rectification and to
@@ -150,7 +150,7 @@ data subject.</p>
 implementing acts, lay down the detailed arrangements necessary for the 
 setting up and maintenance of Eudamed. Those implementing acts shall be 
 adopted in accordance with the examination procedure referred to in 
-Article&nbsp;114(3). When adopting those implementing acts, the 
+[Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)(3). When adopting those implementing acts, the 
 Commission shall ensure that, as far as possible, the system is 
 developed in such a way as to avoid having to enter the same information
  twice within the same module or in different modules of the system.</p>

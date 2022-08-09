@@ -8,7 +8,7 @@ clinical investigation is to be conducted (referred to for the purposes
 of this Article&nbsp;as ‘Member&nbsp;State concerned’) accompanied by 
 the documentation referred to in Chapter II of Annex&nbsp;XV.</p>
    <p class="norm">The application shall be submitted by means of the 
-electronic system referred to in Article&nbsp;73, which shall generate a
+electronic system referred to in [[[Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md), which shall generate a
  Union-wide unique single identification number for the clinical 
 investigation, which shall be used for all relevant communication in 
 relation to that clinical investigation. Within 10 days of it receiving 
@@ -19,7 +19,7 @@ of this Regulation and as to whether the application dossier is complete
    <p class="norm">2.&nbsp;&nbsp;Within one week of any change occurring
  in relation to the documentation referred to in Chapter II of 
 Annex&nbsp;XV, the sponsor shall update the relevant data in the 
-electronic system referred to in Article&nbsp;73 and make that change to
+electronic system referred to in [[[Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md) and make that change to
  the documentation clearly identifiable. The Member&nbsp;State concerned
  shall be notified of the update by means of that electronic system.</p>
    <p class="norm">3.&nbsp;&nbsp;Where the Member&nbsp;State concerned 
@@ -28,7 +28,7 @@ the scope of this Regulation or that the application dossier is not
 complete, it shall inform the sponsor thereof and shall set a time limit
  of maximum 10 days for the sponsor to comment or to complete the 
 application by means of the electronic system referred to in 
-Article&nbsp;73. The Member&nbsp;State concerned may extend this period 
+[[[Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md). The Member&nbsp;State concerned may extend this period 
 by a maximum of 20 days where appropriate.</p>
    <p class="norm">Where the sponsor has not provided comments nor 
 completed the application within the time limit referred to in the first
@@ -93,7 +93,7 @@ experts.</p>
       </div>
    </div>
    <p class="norm">8.&nbsp;&nbsp;The Commission is empowered to adopt 
-delegated acts in accordance with Article&nbsp;115 amending, in the 
+delegated acts in accordance with [Article&nbsp;115](../final provisionsArticle 115 - Exercise of the delegation.md) amending, in the 
 light of technical progress and global regulatory developments, the 
 requirements laid down in Chapter&nbsp;II of Annex&nbsp;XV.</p>
    <p class="norm">9.&nbsp;&nbsp;In order to ensure the uniform 
@@ -101,4 +101,4 @@ application of the requirements laid down in Chapter&nbsp;II of
 Annex&nbsp;XV, the Commission may adopt implementing acts to the extent 
 necessary to resolve issues of divergent interpretation and of practical
  application. Those implementing acts shall be adopted in accordance 
-with the examination procedure referred to in Article&nbsp;114(3).</p>
+with the examination procedure referred to in [Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)(3).</p>

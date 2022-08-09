@@ -12,7 +12,7 @@ reprocessed device and shall assume the obligations incumbent on
 manufacturers laid down in this Regulation, which include obligations 
 relating to the traceability of the reprocessed device in accordance 
 with Chapter III of this Regulation. The reprocessor of the device shall
- be considered to be a producer for the purpose of Article&nbsp;3(1) of 
+ be considered to be a producer for the purpose of [Article&nbsp;3](../scope and definitionsArticle 3 - Amendment of certain definitions.md)(1) of 
 Directive&nbsp;85/374/EEC.</p>
    <p class="norm">3.&nbsp;&nbsp;By way of derogation from 
 paragraph&nbsp;2, as regards single-use devices that are reprocessed and
@@ -26,7 +26,7 @@ in this Regulation provided that they ensure that:</p>
       <div class="grid-list-column-2">
          <p class="norm">the safety and performance of the reprocessed 
 device is equivalent to that of the original device and the requirements
- in points (a), (b), (d), (e), (f), (g) and (h) of Article&nbsp;5(5) are
+ in points (a), (b), (d), (e), (f), (g) and (h) of [Article&nbsp;5](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 5 - Placing on the market and putting into service.md)(5) are
  complied with;</p>
       </div>
    </div>
@@ -107,7 +107,7 @@ device in its entirety is returned to that health institution and the
 external reprocessor complies with the requirements referred to in 
 points (a) and (b) of paragraph&nbsp;3.</p>
    <p class="norm">5.&nbsp;&nbsp;The Commission shall adopt, in 
-accordance with Article&nbsp;9(1), the necessary CS referred to in 
+accordance with [Article&nbsp;9](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 9 - Common specifications.md)(1), the necessary CS referred to in 
 point&nbsp;(b) of paragraph&nbsp;3 by 26 May 2020. Those CS shall be 
 consistent with the latest scientific evidence and shall address the 
 application of the general requirements on safety and performance laid 

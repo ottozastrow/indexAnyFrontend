@@ -65,7 +65,7 @@ intended action by pharmacological, immunological or metabolic means, in
             <div class="grid-list-column-2">
                <div class="list">products specifically intended for the 
 cleaning, disinfection or sterilisation of devices as referred to in 
-Article&nbsp;1(4) and of those referred to in the first 
+[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)(4) and of those referred to in the first 
 paragraph&nbsp;of this point.</div>
             </div>
          </div>
@@ -517,7 +517,7 @@ into service;</p>
       <div class="grid-list-column-2">
          <p class="norm">‘economic operator’ means a manufacturer, an 
 authorised representative, an importer, a distributor or the person 
-referred to in Article&nbsp;22(1) and 22(3);</p>
+referred to in [[Article&nbsp;2](../scope and definitionsArticle 2 - Definitions.md)2](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 22 - Systems and procedure packs.md)(1) and 22(3);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -1008,7 +1008,7 @@ safety corrective action;</p>
       </div>
       <div class="grid-list-column-2">
          <p class="norm">‘harmonised standard’ means a European standard
- as defined in point&nbsp;(1)(c) of Article&nbsp;2 of 
+ as defined in point&nbsp;(1)(c) of [Article&nbsp;2](../scope and definitionsArticle 2 - Definitions.md) of 
 Regulation&nbsp;(EU)&nbsp;No&nbsp;1025/2012;</p>
       </div>
    </div>

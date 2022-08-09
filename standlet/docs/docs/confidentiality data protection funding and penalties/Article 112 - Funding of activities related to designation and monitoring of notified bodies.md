@@ -7,4 +7,4 @@ sidebar_position: 111
 implementing acts, lay down the scale and structure of recoverable costs
  and other necessary implementing rules. Those implementing acts shall 
 be adopted in accordance with the examination procedure referred to in 
-Article&nbsp;114(3).</p>
+[Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)(3).</p>

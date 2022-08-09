@@ -42,7 +42,7 @@ intervention had not occurred, or circumstances had been less fortunate;</p>
    <p class="norm">2.&nbsp;&nbsp;The sponsor shall report, without delay
  to all Member&nbsp;States in which the clinical investigation is being 
 conducted, all of the following by means of the electronic system 
-referred to in Article&nbsp;73:</p>
+referred to in [[[Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md):</p>
    <div class="grid-container grid-list">
       <div class="list grid-list-column-1">
          <span>(a)&nbsp;</span>
@@ -85,16 +85,16 @@ conducted any event referred to in paragraph&nbsp;2 of this
 Article&nbsp;that occurred in third countries in which a clinical 
 investigation is performed under the same clinical investigation plan as
  the one applying to a clinical investigation covered by this Regulation
- by means of the electronic system referred to in Article&nbsp;73.</p>
+ by means of the electronic system referred to in [[[Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md).</p>
    <p class="norm">4.&nbsp;&nbsp;In the case of a clinical investigation
  for which the sponsor has used the single application referred to in 
-Article&nbsp;78, the sponsor shall report any event as referred to in 
+[[Article&nbsp;78](../clinical evaluation and clinical investigationsArticle 78 - Coordinated assessment procedure for clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 78 - Coordinated assessment procedure for clinical investigations.md), the sponsor shall report any event as referred to in 
 paragraph&nbsp;2 of this Article&nbsp;by means of the electronic system 
-referred to in Article&nbsp;73. Upon receipt, this report shall be 
+referred to in [[[Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md). Upon receipt, this report shall be 
 transmitted electronically to all Member&nbsp;States in which the 
 clinical investigation is being conducted.</p>
    <p class="norm">Under the direction of the coordinating 
-Member&nbsp;State referred to in Article&nbsp;78(2), the 
+Member&nbsp;State referred to in [[Article&nbsp;78](../clinical evaluation and clinical investigationsArticle 78 - Coordinated assessment procedure for clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 78 - Coordinated assessment procedure for clinical investigations.md)(2), the 
 Member&nbsp;States shall coordinate their assessment of serious adverse 
 events and device deficiencies to determine whether to modify, suspend 
 or terminate the clinical investigation or whether to revoke the 
@@ -106,9 +106,9 @@ adopt measures in accordance with this Regulation in order to ensure the
 Member&nbsp;State and the Commission shall be kept informed of the 
 outcome of any such evaluation and the adoption of any such measures.</p>
    <p class="norm">5.&nbsp;&nbsp;In the case of PMCF investigations 
-referred to in Article&nbsp;74(1), the provisions on vigilance laid down
+referred to in [Article&nbsp;74](../clinical evaluation and clinical investigationsArticle 74 - Clinical investigations regarding devices bearing the CE marking.md)(1), the provisions on vigilance laid down
  in Articles&nbsp;87 to 90 and in the acts adopted pursuant to 
-Article&nbsp;91 shall apply instead of this Article.</p>
+[Article&nbsp;91](../vigilanceArticle 91 - Implementing acts.md) shall apply instead of this Article.</p>
    <p class="norm">6.&nbsp;&nbsp;Notwithstanding paragraph&nbsp;5, this 
 Article&nbsp;shall apply where a causal relationship between the serious
  adverse event and the preceding investigational procedure has been 

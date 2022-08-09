@@ -9,7 +9,7 @@ specifications by 26 May 2018. That plan shall seek to ensure that
 Eudamed is fully functional at a date that allows the Commission to 
 publish the notice referred to in paragraph&nbsp;3 of this 
 Article&nbsp;by 25 March 2020 and that all other relevant deadlines laid
- down in Article&nbsp;123 of this Regulation and in Article&nbsp;113 of 
+ down in [Article&nbsp;123](../final provisionsArticle 123 - Entry into force and date of application.md) of this Regulation and in [Article&nbsp;113](../confidentiality data protection funding and penaltiesArticle 113 - Penalties.md) of 
 Regulation&nbsp;(EU)&nbsp;2017/746 are met.</p>
    <p class="norm">2.&nbsp;&nbsp;The Commission shall, on the basis of 
 an independent audit report, inform the MDCG when it has verified that 

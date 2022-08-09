@@ -21,7 +21,7 @@ requirements are met:</p>
          <span>(b)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">the device is accompanied by the information to be supplied by the manufacturer in accordance with Article&nbsp;10(11);</p>
+         <p class="norm">the device is accompanied by the information to be supplied by the manufacturer in accordance with [Article&nbsp;10](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 10 - General obligations of manufacturers.md)(11);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -29,7 +29,7 @@ requirements are met:</p>
          <span>(c)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">for imported devices, the importer has complied with the requirements set out in Article&nbsp;13(3);</p>
+         <p class="norm">for imported devices, the importer has complied with the requirements set out in [Article&nbsp;13](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 13 - General obligations of importers.md)(3);</p>
       </div>
    </div>
    <div class="grid-container grid-list">

@@ -19,10 +19,10 @@ clinical evidence shall be appropriate in view of the characteristics of
 document a clinical evaluation in accordance with this Article&nbsp;and 
 Part A of Annex&nbsp;XIV.</p>
    <p class="norm">2.&nbsp;&nbsp;For all class III devices and for the 
-class IIb devices referred to in point&nbsp;(b) of Article&nbsp;54(1), 
+class IIb devices referred to in point&nbsp;(b) of [Article&nbsp;54](../conformity assessmentArticle 54 - Clinical evaluation consultation procedure for certain class III and class IIb devices.md)(1), 
 the manufacturer may, prior to its clinical evaluation and/or 
 investigation, consult an expert panel as referred to in 
-Article&nbsp;106, with the aim of reviewing the manufacturer's intended 
+[Article&nbsp;106](../cooperation between memberstates  medical device coordination group expert laboratories expert panels  and device registersArticle 106 - Provision of scientific technical and clinical opinions and advice.md), with the aim of reviewing the manufacturer's intended 
 clinical development strategy and proposals for clinical investigation. 
 The manufacturer shall give due consideration to the views expressed by 
 the expert panel. Such consideration shall be documented in the clinical
@@ -69,7 +69,7 @@ of Annex&nbsp;XIV, and</div>
          <p class="norm">a critical evaluation of the results of all 
 available clinical investigations, taking duly into consideration 
 whether the investigations were performed under Articles&nbsp;62 
-to&nbsp;80, any acts adopted pursuant to Article&nbsp;81, and 
+to&nbsp;80, any acts adopted pursuant to [Article&nbsp;81](../clinical evaluation and clinical investigationsArticle 81 - Implementing acts.md), and 
 Annex&nbsp;XV; and</p>
       </div>
    </div>
@@ -192,8 +192,8 @@ devices listed in point&nbsp;(b) of paragraph&nbsp;6 of this Article,
 being used in other devices, or where justified in order to protect the 
 health and safety of patients, users or other persons or other aspects 
 of public health, the Commission is empowered to adopt delegated acts in
- accordance with Article&nbsp;115 to amend the list of exempted devices 
-referred to in the second subparagraph&nbsp;of Article&nbsp;52(4) and in
+ accordance with [Article&nbsp;115](../final provisionsArticle 115 - Exercise of the delegation.md) to amend the list of exempted devices 
+referred to in the second subparagraph&nbsp;of [Article&nbsp;52](../conformity assessmentArticle 52 - Conformity assessment procedures.md)(4) and in
  point&nbsp;(b) of paragraph&nbsp;6 of this Article, by adding other 
 types of implantable or class III devices to that list or removing 
 devices therefrom.</p>
@@ -224,10 +224,10 @@ and pre-clinical evaluation, to be adequate.</p>
 documentation shall be updated throughout the life cycle of the device 
 concerned with clinical data obtained from the implementation of the 
 manufacturer's PMCF plan in accordance with Part B of Annex&nbsp;XIV and
- the post-market surveillance plan referred to in Article&nbsp;84.</p>
+ the post-market surveillance plan referred to in [Article&nbsp;84](../postmarket surveillanceArticle 84 - Postmarket surveillance plan.md).</p>
    <p class="norm">For class III devices and implantable devices, the 
 PMCF evaluation report and, if indicated, the summary of safety and 
-clinical performance referred to in Article&nbsp;32 shall be updated at 
+clinical performance referred to in [Article&nbsp;32](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 32 - Summary of safety and clinical performance.md) shall be updated at 
 least annually with such data.</p>
    <p class="norm">12.&nbsp;&nbsp;The clinical evaluation, its results 
 and the clinical evidence derived from it shall be documented in a 
@@ -241,4 +241,4 @@ technical and scientific progress, adopt implementing acts to the extent
  necessary to resolve issues of divergent interpretation and of 
 practical application. Those implementing acts shall be adopted in 
 accordance with the examination procedure referred to in 
-Article&nbsp;114(3).</p>
+[Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)(3).</p>

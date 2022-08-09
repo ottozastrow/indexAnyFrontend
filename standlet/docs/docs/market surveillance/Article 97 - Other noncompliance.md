@@ -3,7 +3,7 @@ sidebar_position: 96
 ---
            <p class="stitle-article-norm">Other non-compliance</p>
    <p class="norm">1.&nbsp;&nbsp;Where, having performed an evaluation 
-pursuant to Article&nbsp;94, the competent authorities of a 
+pursuant to [Article&nbsp;94](../market surveillanceArticle 94 - Evaluation of devices suspected of presenting an unacceptable risk or other noncompliance.md), the competent authorities of a 
 Member&nbsp;State find that a device does not comply with the 
 requirements laid down in this Regulation but does not present an 
 unacceptable risk to the health or safety of patients, users or other 
@@ -20,10 +20,10 @@ the product being made available on the market or to ensure that it is
 recalled or withdrawn from the market. That Member&nbsp;State shall 
 inform the Commission and the other Member&nbsp;States, without delay, 
 of those measures, by means of the electronic system referred to in 
-Article&nbsp;100.</p>
+[Article&nbsp;100](../market surveillanceArticle 100 - Electronic system on market surveillance.md).</p>
    <p class="norm">3.&nbsp;&nbsp;In order to ensure the uniform 
 application of this Article, the Commission may, by means of 
 implementing acts, specify appropriate measures to be taken by competent
  authorities to address given types of non-compliance. Those 
 implementing acts shall be adopted in accordance with the examination 
-procedure referred to in Article&nbsp;114(3).</p>
+procedure referred to in [Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)(3).</p>

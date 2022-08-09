@@ -15,7 +15,7 @@ devices should be withdrawn from the market or recalled, it may take any
    <p class="norm">2.&nbsp;&nbsp;The Member&nbsp;State referred to in 
 paragraph&nbsp;1 shall immediately notify the Commission and all other 
 Member&nbsp;States, giving the reasons for its decision, by means of the
- electronic system referred to in Article&nbsp;100.</p>
+ electronic system referred to in [Article&nbsp;100](../market surveillanceArticle 100 - Electronic system on market surveillance.md).</p>
    <p class="norm">3.&nbsp;&nbsp;The Commission, in consultation with 
 the MDCG and, where necessary, the economic operators concerned, shall 
 assess the national measures taken. The Commission may decide, by means 
@@ -23,7 +23,7 @@ of implementing acts, whether the national measures are justified or
 not. In the absence of a Commission decision within six months of their 
 notification, the national measures shall be considered to be justified.
  Those implementing acts shall be adopted in accordance with the 
-examination procedure referred to in Article&nbsp;114(3).</p>
+examination procedure referred to in [[Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)](../final provisionsArticle 114 - Committee procedure.md)(3).</p>
    <p class="norm">4.&nbsp;&nbsp;Where the assessment referred to in 
 paragraph&nbsp;3 of this Article&nbsp;demonstrates that the making 
 available on the market or putting into service of a device, specific 
@@ -35,4 +35,4 @@ patients, users or other persons or other aspects of public health, the
 Commission may adopt implementing acts to take the necessary and duly 
 justified measures. Those implementing acts shall be adopted in 
 accordance with the examination procedure referred to in 
-Article&nbsp;114(3).</p>
+[[Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)](../final provisionsArticle 114 - Committee procedure.md)(3).</p>

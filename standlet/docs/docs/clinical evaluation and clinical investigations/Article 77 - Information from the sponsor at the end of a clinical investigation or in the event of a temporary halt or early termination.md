@@ -6,7 +6,7 @@ sidebar_position: 76
  clinical investigation or has terminated a clinical investigation 
 early, it shall inform within 15 days the Member&nbsp;State in which 
 that clinical investigation has been temporarily halted or terminated 
-early, through the electronic system referred to in Article&nbsp;73, of 
+early, through the electronic system referred to in [[[Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md), of 
 the temporary halt or early termination, providing a justification. In 
 the event that the sponsor has temporarily halted or terminated early 
 the clinical investigation on safety grounds, it shall inform all 
@@ -38,7 +38,7 @@ Section&nbsp;7 of Chapter III of Annex&nbsp;XV.</p>
 accompanied by a summary presented in terms that are easily 
 understandable to the intended user. Both the report and summary shall 
 be submitted by the sponsor by means of the electronic system referred 
-to in Article&nbsp;73.</p>
+to in [[[Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md).</p>
    <p class="norm">Where, for scientific reasons, it is not possible to 
 submit the clinical investigation report within one year of the end of 
 the investigation, it shall be submitted as soon as it is available. In 
@@ -57,13 +57,13 @@ sharing of raw data in the field of clinical investigations.</p>
    <p class="norm">7.&nbsp;&nbsp;The summary and the clinical 
 investigation report referred to in paragraph&nbsp;5 of this 
 Article&nbsp;shall become publicly accessible through the electronic 
-system referred to in Article&nbsp;73, at the latest when the device is 
-registered in accordance with Article&nbsp;29 and before it is placed on
+system referred to in [[[Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md), at the latest when the device is 
+registered in accordance with [[Article&nbsp;29](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 29 - Registration of devices.md)](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 29 - Registration of devices.md) and before it is placed on
  the market. In cases of early termination or temporary halt, the 
 summary and the report shall become publicly accessible immediately 
 after submission.</p>
    <p class="norm">If the device is not registered in accordance with 
-Article&nbsp;29 within one year of the summary and the report having 
+[[Article&nbsp;29](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 29 - Registration of devices.md)](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 29 - Registration of devices.md) within one year of the summary and the report having 
 been entered into the electronic system pursuant to paragraph&nbsp;5 of 
 this Article, they shall become publicly accessible at that point in 
 time.</p>

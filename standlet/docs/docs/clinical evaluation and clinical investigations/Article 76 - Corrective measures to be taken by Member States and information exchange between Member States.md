@@ -42,8 +42,8 @@ refused a clinical investigation, or has been notified by the sponsor of
  the early termination of a clinical investigation on safety grounds, 
 that Member&nbsp;State shall communicate the corresponding decision and 
 the grounds therefor to all Member&nbsp;States and the Commission by 
-means of the electronic system referred to in Article&nbsp;73.</p>
+means of the electronic system referred to in [[Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md).</p>
    <p class="norm">4.&nbsp;&nbsp;Where an application is withdrawn by 
 the sponsor prior to a decision by a Member&nbsp;State, that information
  shall be made available through the electronic system referred to in 
-Article&nbsp;73 to all Member&nbsp;States and the Commission.</p>
+[[Article&nbsp;73](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md)](../clinical evaluation and clinical investigationsArticle 73 - Electronic system on clinical investigations.md) to all Member&nbsp;States and the Commission.</p>

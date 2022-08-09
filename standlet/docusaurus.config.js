@@ -6,6 +6,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  // plugins: [
+  //   [
+  //     require.resolve("@cmfcmf/docusaurus-search-local"),
+  //     {
+  //       indexBlog: false,
+  //     },
+  //   ],
+  // ],
   title: 'standlet',
   tagline: 'find standards and regulations faster',
   url: 'https://docusaurus-2.netlify.app', // Url to your site with no trailing slash
@@ -62,17 +70,13 @@ const config = {
         indexName: 'mdr_eu745',
   
         // Optional: see doc section below
-        contextualSearch: true,
+        contextualSearch: false,
   
         // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.  
         // Optional: Algolia search parameters
         searchParameters: {
           hitsPerPage: 10,
         },
-        attributesToRetrieve:["title", "section", "content"],
-        attributesToHighlight:["content"],
-        attributesToSnippet:["content"],
-
 
         // Optional: path for search page that enabled by default (`false` to disable it)
         searchPagePath: 'search',

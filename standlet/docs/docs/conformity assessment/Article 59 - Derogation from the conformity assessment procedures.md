@@ -3,7 +3,7 @@ sidebar_position: 58
 ---
            <p class="stitle-article-norm">Derogation from the conformity assessment procedures</p>
    <p class="norm">1.&nbsp;&nbsp;By way of derogation from 
-Article&nbsp;52, any competent authority may authorise, on a duly 
+[Article&nbsp;52](../conformity assessmentArticle 52 - Conformity assessment procedures.md), any competent authority may authorise, on a duly 
 justified request, the placing on the market or putting into service 
 within the territory of the Member&nbsp;State concerned, of a specific 
 device for which the procedures referred to in that Article&nbsp;have 
@@ -23,8 +23,8 @@ paragraph&nbsp;1 of this Article&nbsp;to the territory of the Union and
 set the conditions under which the device may be placed on the market or
  put into service. Those implementing acts shall be adopted in 
 accordance with the examination procedure referred to in 
-Article&nbsp;114(3).</p>
+[[Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)](../final provisionsArticle 114 - Committee procedure.md)(3).</p>
    <p class="norm">On duly justified imperative grounds of urgency 
 relating to the health and safety of humans, the Commission shall adopt 
 immediately applicable implementing acts in accordance with the 
-procedure referred to in Article&nbsp;114(4).</p>
+procedure referred to in [[Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)](../final provisionsArticle 114 - Committee procedure.md)(4).</p>

@@ -7,7 +7,7 @@ implementing acts and in consultation with the MDCG, make provision for
 expert panels to be designated for the assessment of the clinical 
 evaluation in relevant medical fields as referred to in paragraph&nbsp;9
  of this Article&nbsp;and to provide views in accordance with 
-Article&nbsp;48(6) of Regulation&nbsp;(EU)&nbsp;2017/746 on the 
+[[Article&nbsp;48](../notified bodiesArticle 48 - Peer review and exchange of experience between authorities responsible for notified bodies.md)](../notified bodiesArticle 48 - Peer review and exchange of experience between authorities responsible for notified bodies.md)(6) of Regulation&nbsp;(EU)&nbsp;2017/746 on the 
 performance evaluation of certain <span class="italics">in vitro</span> 
 diagnostic medical devices and, where necessary, for categories or 
 groups of devices, or for specific hazards relating to categories or 
@@ -117,7 +117,7 @@ which they are designated;</p>
    </div>
    <p class="norm">9.&nbsp;&nbsp;Expert panels appointed for clinical 
 evaluation in relevant medical fields shall fulfil the tasks provided 
-for in Article&nbsp;54(1) and Article&nbsp;61(2) and Section&nbsp;5.1 of
+for in [Article&nbsp;54](../conformity assessmentArticle 54 - Clinical evaluation consultation procedure for certain class III and class IIb devices.md)(1) and [[Article&nbsp;61](../clinical evaluation and clinical investigationsArticle 61 - Clinical evaluation.md)](../clinical evaluation and clinical investigationsArticle 61 - Clinical evaluation.md)(2) and Section&nbsp;5.1 of
  Annex&nbsp;IX or Section&nbsp;6 of Annex&nbsp;X, as applicable.</p>
    <p class="norm">10.&nbsp;&nbsp;Expert panels and expert laboratories may have the following tasks, depending on the requisite needs:</p>
    <div class="grid-container grid-list">
@@ -214,7 +214,7 @@ electrical, electronic or non-clinical toxicological testing;</p>
       </div>
       <div class="grid-list-column-2">
          <p class="norm">to provide opinions in response to 
-consultations by manufacturers in accordance with Article&nbsp;61(2), 
+consultations by manufacturers in accordance with [[Article&nbsp;61](../clinical evaluation and clinical investigationsArticle 61 - Clinical evaluation.md)](../clinical evaluation and clinical investigationsArticle 61 - Clinical evaluation.md)(2), 
 notified bodies and Member&nbsp;States in accordance with 
 paragraphs&nbsp;11 to 13 of this Article.</p>
       </div>
@@ -233,7 +233,7 @@ paragraphs&nbsp;11 to 13 of this Article.</p>
       </div>
       <div class="grid-list-column-2">
          <p class="norm">to provide views in accordance with 
-Article&nbsp;48(4) of Regulation&nbsp;(EU)&nbsp;2017/746 on the 
+[[Article&nbsp;48](../notified bodiesArticle 48 - Peer review and exchange of experience between authorities responsible for notified bodies.md)](../notified bodiesArticle 48 - Peer review and exchange of experience between authorities responsible for notified bodies.md)(4) of Regulation&nbsp;(EU)&nbsp;2017/746 on the 
 performance evaluation of certain <span class="italics">in vitro</span> diagnostic medical devices.</p>
       </div>
    </div>
@@ -255,7 +255,7 @@ positions and the grounds on which they are based.</p>
    <p class="norm">The Commission shall publish the scientific opinion 
 and advice delivered in accordance with paragraphs 9 and 11 of this 
 Article, ensuring consideration of aspects of confidentiality as set out
- in Article&nbsp;109. The clinical evaluation guidance referred to in 
+ in [Article&nbsp;109](../confidentiality data protection funding and penaltiesArticle 109 - Confidentiality.md). The clinical evaluation guidance referred to in 
 point&nbsp;(c) of paragraph&nbsp;10 shall be published following 
 consultation with the MDCG.</p>
    <p class="norm">13.&nbsp;&nbsp;The Commission may require 
@@ -268,7 +268,7 @@ Regulation, protection of health and safety, support of innovation and
 cost-effectiveness and the necessity to achieve active participation in 
 the expert panels. Those implementing acts shall be adopted in 
 accordance with the examination procedure referred to in 
-Article&nbsp;114(3).</p>
+[Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)(3).</p>
    <p class="norm">14.&nbsp;&nbsp;The fees payable to the Commission in 
 accordance with the procedure under paragraph&nbsp;13 of this 
 Article&nbsp;shall be set in a transparent manner and on the basis of 
@@ -278,6 +278,6 @@ in the case of a clinical evaluation consultation procedure initiated in
 involving a manufacturer who is a micro, small or medium-sized 
 enterprise within the meaning of Recommendation&nbsp;2003/361/EC.</p>
    <p class="norm">15.&nbsp;&nbsp;The Commission is empowered to adopt 
-delegated acts in accordance with Article&nbsp;115 to amend the tasks of
+delegated acts in accordance with [Article&nbsp;115](../final provisionsArticle 115 - Exercise of the delegation.md) to amend the tasks of
  expert panels and expert laboratories referred to in paragraph&nbsp;10 
 of this Article.</p>

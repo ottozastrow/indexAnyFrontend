@@ -4,7 +4,7 @@ sidebar_position: 29
            <p class="stitle-article-norm">Electronic system for registration of economic operators</p>
    <p class="norm">1.&nbsp;&nbsp;The Commission, after consulting the 
 MDCG, shall set up and manage an electronic system to create the single 
-registration number referred to in Article&nbsp;31(2) and to collate and
+registration number referred to in [Article&nbsp;31](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 31 - Registration of manufacturers authorised representatives and importers.md)(2) and to collate and
  process information that is necessary and proportionate to identify the
  manufacturer and, where applicable, the authorised representative and 
 the importer. The details regarding the information to be provided to 

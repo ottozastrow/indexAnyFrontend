@@ -38,7 +38,7 @@ requirements may be affected.</p>
    </div>
    <p class="norm">The first subparagraph&nbsp;shall not apply to any 
 person who, while not considered a manufacturer as defined in 
-point&nbsp;(30) of Article&nbsp;2, assembles or adapts for an individual
+point&nbsp;(30) of [Article&nbsp;2](../scope and definitionsArticle 2 - Definitions.md), assembles or adapts for an individual
  patient a device already on the market without changing its intended 
 purpose.</p>
    <p class="norm">2.&nbsp;&nbsp;For the purposes of point&nbsp;(c) of 

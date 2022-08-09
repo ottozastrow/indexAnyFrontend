@@ -5,7 +5,7 @@ sidebar_position: 61
    <p class="norm">1.&nbsp;&nbsp;Clinical investigations shall be 
 designed, authorised, conducted, recorded and reported in accordance 
 with the provisions of this Article&nbsp;and of Articles&nbsp;63 to 80, 
-the acts adopted pursuant to Article&nbsp;81, and Annex&nbsp;XV, where 
+the acts adopted pursuant to [Article&nbsp;81](../clinical evaluation and clinical investigationsArticle 81 - Implementing acts.md), and Annex&nbsp;XV, where 
 carried out as part of the clinical evaluation for conformity assessment
  purposes, for one or more of the following purposes:</p>
    <div class="grid-container grid-list">
@@ -16,7 +16,7 @@ carried out as part of the clinical evaluation for conformity assessment
          <p class="norm">to establish and verify that, under normal 
 conditions of use, a device is designed, manufactured and packaged in 
 such a way that it is suitable for one or more of the specific purposes 
-listed in point&nbsp;(1) of Article&nbsp;2, and achieves the performance
+listed in point&nbsp;(1) of [Article&nbsp;2](../scope and definitionsArticle 2 - Definitions.md), and achieves the performance
  intended as specified by its manufacturer;</p>
       </div>
    </div>
@@ -127,7 +127,7 @@ compliance with this condition is constantly monitored;</p>
       <div class="grid-list-column-2">
          <p class="norm">the subject or, where the subject is not able 
 to give informed consent, his or her legally designated representative 
-has given informed consent in accordance with Article&nbsp;63;</p>
+has given informed consent in accordance with [Article&nbsp;63](../clinical evaluation and clinical investigationsArticle 63 - Informed consent.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">

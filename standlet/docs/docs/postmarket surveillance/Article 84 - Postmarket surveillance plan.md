@@ -3,7 +3,7 @@ sidebar_position: 83
 ---
            <p class="stitle-article-norm">Post-market surveillance plan</p>
    <p class="norm">The post-market surveillance system referred to in 
-Article&nbsp;83 shall be based on a post-market surveillance plan, the 
+[Article&nbsp;83](../postmarket surveillanceArticle 83 - Postmarket surveillance system of the manufacturer.md) shall be based on a post-market surveillance plan, the 
 requirements for which are set out in <span>
          <a href="https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32017R0745R%2802%29" onclick="window.open(this.href,'_blanc'); return false;" title="32017R0745R(02): REPLACED">
             <span class="boldface">►C2</span>

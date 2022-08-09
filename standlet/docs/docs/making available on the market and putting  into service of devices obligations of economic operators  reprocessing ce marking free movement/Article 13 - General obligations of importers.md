@@ -18,7 +18,7 @@ sidebar_position: 12
       </div>
       <div class="grid-list-column-2">
          <p class="norm">a manufacturer is identified and that an 
-authorised representative in accordance with Article&nbsp;11 has been 
+authorised representative in accordance with [Article&nbsp;11](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 11 - Authorised representative.md) has been 
 designated by the manufacturer;</p>
       </div>
    </div>
@@ -35,7 +35,7 @@ designated by the manufacturer;</p>
          <span>(d)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">where applicable, a UDI has been assigned by the manufacturer in accordance with Article&nbsp;27.</p>
+         <p class="norm">where applicable, a UDI has been assigned by the manufacturer in accordance with [Article&nbsp;27](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 27 - Unique Device Identification system.md).</p>
       </div>
    </div>
    <p class="norm">Where an importer considers or has reason to believe 
@@ -55,8 +55,8 @@ their location can be established. They shall ensure that any additional
 manufacturer.</p>
    <p class="norm">4.&nbsp;&nbsp;Importers shall verify that the device 
 is registered in the electronic system in accordance with 
-Article&nbsp;29. Importers shall add their details to the registration 
-in accordance with Article&nbsp;31.</p>
+[Article&nbsp;29](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 29 - Registration of devices.md). Importers shall add their details to the registration 
+in accordance with [Article&nbsp;31](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 31 - Registration of manufacturers authorised representatives and importers.md).</p>
    <p class="norm">5.&nbsp;&nbsp;Importers shall ensure that, while a 
 device is under their responsibility, storage or transport conditions do
  not jeopardise its compliance with the general safety and performance 
@@ -78,7 +78,7 @@ withdraw or recall it is taken. Where the device presents a serious
 risk, they shall also immediately inform the competent authorities of 
 the Member&nbsp;States in which they made the device available and, if 
 applicable, the notified body that issued a certificate in accordance 
-with Article&nbsp;56 for the device in question, giving details, in 
+with [[Article&nbsp;56](../conformity assessmentArticle 56 - Certificates of conformity.md)](../conformity assessmentArticle 56 - Certificates of conformity.md) for the device in question, giving details, in 
 particular, of the non-compliance and of any corrective action taken.</p>
    <p class="norm">8.&nbsp;&nbsp;Importers who have received complaints 
 or reports from healthcare professionals, patients or users about 
@@ -86,10 +86,10 @@ suspected incidents related to a device which they have placed on the
 market shall immediately forward this information to the manufacturer 
 and its authorised representative.</p>
    <p class="norm">9.&nbsp;&nbsp;Importers shall, for the period 
-referred to in Article&nbsp;10(8), keep a copy of the 
+referred to in [Article&nbsp;10](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 10 - General obligations of manufacturers.md)(8), keep a copy of the 
 EU&nbsp;declaration of conformity and, if applicable, a copy of any 
 relevant certificate, including any amendments and supplements, issued 
-in accordance with Article&nbsp;56.</p>
+in accordance with [[Article&nbsp;56](../conformity assessmentArticle 56 - Certificates of conformity.md)](../conformity assessmentArticle 56 - Certificates of conformity.md).</p>
    <p class="norm">10.&nbsp;&nbsp;Importers shall cooperate with 
 competent authorities, at the latters' request, on any action taken to 
 eliminate or, if that is not possible, mitigate the risks posed by 

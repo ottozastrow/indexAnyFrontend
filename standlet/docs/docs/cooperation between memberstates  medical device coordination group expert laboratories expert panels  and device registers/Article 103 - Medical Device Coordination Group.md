@@ -60,7 +60,7 @@ such sub-groups in the capacity of observers.</p>
          <span>—&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <div class="list">the implementation of Article&nbsp;107 regarding conflict of interests;</div>
+         <div class="list">the implementation of [Article&nbsp;107](../cooperation between memberstates  medical device coordination group expert laboratories expert panels  and device registersArticle 107 - Conflict of interests.md) regarding conflict of interests;</div>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -72,5 +72,5 @@ such sub-groups in the capacity of observers.</p>
       </div>
    </div>
    <p class="norm">9.&nbsp;&nbsp;The MDCG shall have the tasks laid down
- in Article&nbsp;105 of this Regulation and Article&nbsp;99 of 
+ in [Article&nbsp;105](../cooperation between memberstates  medical device coordination group expert laboratories expert panels  and device registersArticle 105 - Tasks of the MDCG.md) of this Regulation and [Article&nbsp;99](../market surveillanceArticle 99 - Good administrative practice.md) of 
 Regulation (EU)&nbsp;2017/746.</p>

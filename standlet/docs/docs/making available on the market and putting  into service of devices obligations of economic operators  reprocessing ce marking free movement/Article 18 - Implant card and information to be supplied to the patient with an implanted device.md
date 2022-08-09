@@ -65,6 +65,6 @@ implant card, which shall bear their identity.</p>
 exempted from the obligations laid down in this Article: sutures, 
 staples, dental fillings, dental braces, tooth crowns, screws, wedges, 
 plates, wires, pins, clips and connectors. The Commission is empowered 
-to adopt delegated acts in accordance with Article&nbsp;115 to amend 
+to adopt delegated acts in accordance with [Article&nbsp;115](../final provisionsArticle 115 - Exercise of the delegation.md) to amend 
 this list by adding other types of implants to it or by removing 
 implants therefrom.</p>

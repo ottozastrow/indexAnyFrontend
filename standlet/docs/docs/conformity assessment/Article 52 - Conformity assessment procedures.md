@@ -39,7 +39,7 @@ this Article, being used in other class IIb implantable devices, or
 where justified in order to protect the health and safety of patients, 
 users or other persons or other aspects of public health, the Commission
  is empowered to adopt delegated acts in accordance with 
-Article&nbsp;115 to amend that list by adding other types of class IIb 
+[[[[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)15](../final provisionsArticle 115 - Exercise of the delegation.md) to amend that list by adding other types of class IIb 
 implantable devices to that list or removing devices therefrom.</p>
    <p class="norm">6.&nbsp;&nbsp;Manufacturers of class IIa devices, 
 other than custom-made or investigational devices, shall be subject to a
@@ -56,7 +56,7 @@ each category of devices.</p>
    <p class="norm">7.&nbsp;&nbsp;Manufacturers of class I devices, other
  than custom-made or investigational devices, shall declare the 
 conformity of their products by issuing the EU&nbsp;declaration of 
-conformity referred to in Article&nbsp;19 after drawing up the technical
+conformity referred to in [[[[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)9](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 19 - EU declaration of conformity.md) after drawing up the technical
  documentation set out in Annexes&nbsp;II and III. If those devices are 
 placed on the market in sterile condition, have a measuring function or 
 are reusable surgical instruments, the manufacturer shall apply the 
@@ -107,14 +107,14 @@ manufacturer may choose to apply a conformity assessment as specified in
    <p class="norm">9.&nbsp;&nbsp;In addition to the procedures 
 applicable pursuant to paragraph&nbsp;3, 4, 6, or 7 of this Article, in 
 the case of devices referred to in the first subparagraph&nbsp;of 
-Article&nbsp;1(8), the procedure specified in Section&nbsp;5.2 of 
+[[[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)(8), the procedure specified in Section&nbsp;5.2 of 
 Annex&nbsp;IX or Section&nbsp;6 of Annex&nbsp;X, as applicable, shall 
 also apply.</p>
    <p class="norm">10.&nbsp;&nbsp;In addition to the procedures 
 applicable pursuant to paragraph&nbsp;3, 4, 6, or 7 of this Article, in 
 the case of devices that are covered by this Regulation in accordance 
-with point&nbsp;(f) or (g) of Article&nbsp;1(6) and with the first 
-subparagraph&nbsp;of Article&nbsp;1(10), the procedure specified in 
+with point&nbsp;(f) or (g) of [[[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)(6) and with the first 
+subparagraph&nbsp;of [[[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)(10), the procedure specified in 
 Section&nbsp;5.3 of Annex&nbsp;IX or Section&nbsp;6 of Annex&nbsp;X, as 
 applicable, shall also apply.</p>
    <p class="norm">11.&nbsp;&nbsp;In addition to the procedures 
@@ -177,4 +177,4 @@ accordance with Sections 3.4 and 4.3 of Annex&nbsp;IX, Section&nbsp;3 of
    </div>
    <p class="norm">The implementing acts referred to in the first 
 subparagraph&nbsp;shall be adopted in accordance with the examination 
-procedure referred to in Article&nbsp;114(3).</p>
+procedure referred to in [[[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)14(3).</p>

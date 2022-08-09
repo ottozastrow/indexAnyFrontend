@@ -7,7 +7,7 @@ plan, establish, document, implement, maintain and update a post-market
 surveillance system in a manner that is proportionate to the risk class 
 and appropriate for the type of device. That system shall be an integral
  part of the manufacturer's quality management system referred to in 
-Article&nbsp;10(9).</p>
+[Article&nbsp;10](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 10 - General obligations of manufacturers.md)(9).</p>
    <p class="norm">2.&nbsp;&nbsp;The post-market surveillance system 
 shall be suited to actively and systematically gathering, recording and 
 analysing relevant data on the quality, performance and safety of a 
@@ -44,7 +44,7 @@ preventive and corrective actions.</p>
          <span>(d)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">to update the summary of safety and clinical performance referred to in Article&nbsp;32;</p>
+         <p class="norm">to update the summary of safety and clinical performance referred to in [Article&nbsp;32](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 32 - Summary of safety and clinical performance.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -76,7 +76,7 @@ preventive and corrective actions.</p>
          <span>(h)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">to detect and report trends in accordance with Article&nbsp;88.</p>
+         <p class="norm">to detect and report trends in accordance with [Article&nbsp;88](../vigilanceArticle 88 - Trend reporting.md).</p>
       </div>
    </div>
    <p class="norm">The technical documentation shall be updated accordingly.</p>
@@ -86,4 +86,4 @@ identified, the manufacturer shall implement the appropriate measures
 and inform the competent authorities concerned and, where applicable, 
 the notified body. Where a serious incident is identified or a field 
 safety corrective action is implemented, it shall be reported in 
-accordance with Article&nbsp;87.</p>
+accordance with [Article&nbsp;87](../vigilanceArticle 87 - Reporting of serious incidents and field safety corrective actions.md).</p>

@@ -28,4 +28,4 @@ application of the requirements set out in Annex&nbsp;VII, the
 Commission may adopt implementing acts, to the extent necessary to 
 resolve issues of divergent interpretation and of practical application.
  Those implementing acts shall be adopted in accordance with the 
-examination procedure referred to in Article&nbsp;114(3).</p>
+examination procedure referred to in [Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)(3).</p>

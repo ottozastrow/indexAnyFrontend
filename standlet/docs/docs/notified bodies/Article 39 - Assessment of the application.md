@@ -4,7 +4,7 @@ sidebar_position: 38
            <p class="stitle-article-norm">Assessment of the application</p>
    <p class="norm">1.&nbsp;&nbsp;The authority responsible for notified 
 bodies shall within 30 days check that the application referred to in 
-Article&nbsp;38 is complete and shall request the applicant to provide 
+[[[Article&nbsp;38](../notified bodiesArticle 38 - Application by conformity assessment bodies for designation.md)](../notified bodiesArticle 38 - Application by conformity assessment bodies for designation.md)](../notified bodiesArticle 38 - Application by conformity assessment bodies for designation.md) is complete and shall request the applicant to provide 
 any missing information. Once the application is complete that authority
  shall send it to the Commission.</p>
    <p class="norm">The authority responsible for notified bodies shall 
@@ -18,7 +18,7 @@ referred to in paragraph&nbsp;2 of this Article, the Commission, in
 conjunction with the MDCG, shall appoint a joint assessment team made up
  of three experts, unless the specific circumstances require a different
  number of experts, chosen from the list referred to in 
-Article&nbsp;40(2). One of the experts shall be a representative of the 
+[Article&nbsp;40](../notified bodiesArticle 40 - Nomination of experts for joint assessment of applications for notification.md)(2). One of the experts shall be a representative of the 
 Commission who shall coordinate the activities of the joint assessment 
 team. The other two experts shall come from Member&nbsp;States other 
 than the one in which the applicant conformity assessment body is 
@@ -27,11 +27,11 @@ established.</p>
 experts who are competent to assess the conformity assessment activities
  and the types of devices which are the subject of the application or, 
 in particular when the assessment procedure is initiated in accordance 
-with Article&nbsp;47(3), to ensure that the specific concern can be 
+with [Article&nbsp;47](../notified bodiesArticle 47 - Challenge to the competence of notified bodies.md)(3), to ensure that the specific concern can be 
 appropriately assessed.</p>
    <p class="norm">4.&nbsp;&nbsp;Within 90 days of its appointment, the 
 joint assessment team shall review the documentation submitted with the 
-application in accordance with Article&nbsp;38. The joint assessment 
+application in accordance with [[[Article&nbsp;38](../notified bodiesArticle 38 - Application by conformity assessment bodies for designation.md)](../notified bodiesArticle 38 - Application by conformity assessment bodies for designation.md)](../notified bodiesArticle 38 - Application by conformity assessment bodies for designation.md). The joint assessment 
 team may provide feedback to, or require clarification from, the 
 authority responsible for notified bodies on the application and on the 
 planned on-site assessment.</p>
@@ -120,7 +120,7 @@ notified body.</p>
    <p class="norm">10.&nbsp;&nbsp;The Commission may, by means of 
 implementing acts, adopt measures setting out the detailed arrangements 
 specifying procedures and reports for the application for designation 
-referred to in Article&nbsp;38 and the assessment of the application set
+referred to in [[[Article&nbsp;38](../notified bodiesArticle 38 - Application by conformity assessment bodies for designation.md)](../notified bodiesArticle 38 - Application by conformity assessment bodies for designation.md)](../notified bodiesArticle 38 - Application by conformity assessment bodies for designation.md) and the assessment of the application set
  out in this Article. Those implementing acts shall be adopted in 
 accordance with the examination procedure referred to in 
-Article&nbsp;114(3).</p>
+[Article&nbsp;114](../final provisionsArticle 114 - Committee procedure.md)(3).</p>

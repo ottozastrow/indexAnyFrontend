@@ -7,7 +7,7 @@ investigational devices, considered to be in conformity with the
 requirements of this Regulation shall bear the CE marking of conformity,
  as presented in Annex&nbsp;V.</p>
    <p class="norm">2.&nbsp;&nbsp;The CE marking shall be subject to the 
-general principles set out in Article&nbsp;30 of 
+general principles set out in [Article&nbsp;30](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 30 - Electronic system for registration of economic operators.md) of 
 Regulation&nbsp;(EC)&nbsp;No&nbsp;765/2008.</p>
    <p class="norm">3.&nbsp;&nbsp;The CE marking shall be affixed 
 visibly, legibly and indelibly to the device or its sterile packaging. 
@@ -21,7 +21,7 @@ the device is placed on the market. It may be followed by a pictogram or
    <p class="norm">5.&nbsp;&nbsp;Where applicable, the CE marking shall 
 be followed by the identification number of the notified body 
 responsible for the conformity assessment procedures set out in 
-Article&nbsp;52. The identification number shall also be indicated in 
+[Article&nbsp;52](../conformity assessmentArticle 52 - Conformity assessment procedures.md). The identification number shall also be indicated in 
 any promotional material which mentions that a device fulfils the 
 requirements for CE marking.</p>
    <p class="norm">6.&nbsp;&nbsp;Where devices are subject to other 

@@ -11,7 +11,7 @@ document, implement and maintain a system for risk management as
 described in Section&nbsp;3 of Annex&nbsp;I.</p>
    <p class="norm">3.&nbsp;&nbsp;Manufacturers shall conduct a clinical 
 evaluation in accordance with the requirements set out in 
-Article&nbsp;61 and Annex&nbsp;XIV, including a PMCF.</p>
+[[Article&nbsp;61](../clinical evaluation and clinical investigationsArticle 61 - Clinical evaluation.md)](../clinical evaluation and clinical investigationsArticle 61 - Clinical evaluation.md) and Annex&nbsp;XIV, including a PMCF.</p>
    <p class="norm">4.&nbsp;&nbsp;Manufacturers of devices other than 
 custom-made devices shall draw up and keep up to date technical 
 documentation for those devices. The technical documentation shall be 
@@ -19,7 +19,7 @@ such as to allow the conformity of the device with the requirements of
 this Regulation to be assessed. The technical documentation shall 
 include the elements set out in Annexes&nbsp;II and&nbsp;III.</p>
    <p class="norm">The Commission is empowered to adopt delegated acts 
-in accordance with Article&nbsp;115 amending, in the light of technical 
+in accordance with [[Article&nbsp;11](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 11 - Authorised representative.md)5](../final provisionsArticle 115 - Exercise of the delegation.md) amending, in the light of technical 
 progress, the Annexes&nbsp;II and III.</p>
    <p class="norm">5.&nbsp;&nbsp;Manufacturers of custom-made devices 
 shall draw up, keep up to date and keep available for competent 
@@ -29,16 +29,16 @@ Annex&nbsp;XIII.</p>
 requirements has been demonstrated following the applicable conformity 
 assessment procedure, manufacturers of devices, other than custom-made 
 or investigational devices, shall draw up an EU declaration of 
-conformity in accordance with Article&nbsp;19, and affix the CE marking 
-of conformity in accordance with Article&nbsp;20.</p>
+conformity in accordance with [Article&nbsp;19](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 19 - EU declaration of conformity.md), and affix the CE marking 
+of conformity in accordance with [Article&nbsp;20](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 20 - CE marking of conformity.md).</p>
    <p class="norm">7.&nbsp;&nbsp;Manufacturers shall comply with the 
-obligations relating to the UDI system referred to in Article&nbsp;27 
+obligations relating to the UDI system referred to in [[Article&nbsp;27](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 27 - Unique Device Identification system.md)](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 27 - Unique Device Identification system.md) 
 and with the registration obligations referred to in Articles&nbsp;29 
 and 31.</p>
    <p class="norm">8.&nbsp;&nbsp;Manufacturers shall keep the technical 
 documentation, the EU declaration of conformity and, if applicable, a 
 copy of any relevant certificate, including any amendments and 
-supplements, issued in accordance with Article&nbsp;56, available for 
+supplements, issued in accordance with [[Article&nbsp;56](../conformity assessmentArticle 56 - Certificates of conformity.md)](../conformity assessmentArticle 56 - Certificates of conformity.md), available for 
 the competent authorities for a period of at least 10 years after the 
 last device covered by the EU&nbsp;declaration of conformity has been 
 placed on the market. In the case of implantable devices, the period 
@@ -49,7 +49,7 @@ manufacturer shall, as indicated therein, provide that technical
 documentation in its entirety or a summary thereof.</p>
    <p class="norm">A manufacturer with a registered place of business 
 outside the Union shall, in order to allow its authorised representative
- to fulfil the tasks mentioned in Article&nbsp;11(3), ensure that the 
+ to fulfil the tasks mentioned in [Article&nbsp;11](../making available on the market and putting  into service of devices obligations of economic operators  reprocessing ce marking free movementArticle 11 - Authorised representative.md)(3), ensure that the 
 authorised representative has the necessary documentation permanently 
 available.</p>
    <p class="norm">9.&nbsp;&nbsp;Manufacturers shall ensure that 
@@ -119,7 +119,7 @@ requirements;</p>
          <span>(f)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">clinical evaluation in accordance with Article&nbsp;61 and Annex&nbsp;XIV, including PMCF;</p>
+         <p class="norm">clinical evaluation in accordance with [[Article&nbsp;61](../clinical evaluation and clinical investigationsArticle 61 - Clinical evaluation.md)](../clinical evaluation and clinical investigationsArticle 61 - Clinical evaluation.md) and Annex&nbsp;XIV, including PMCF;</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -136,9 +136,9 @@ requirements;</p>
       </div>
       <div class="grid-list-column-2">
          <p class="norm">verification of the UDI assignments made in 
-accordance with Article&nbsp;27(3) to all relevant devices and ensuring 
+accordance with [[Article&nbsp;27](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 27 - Unique Device Identification system.md)](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 27 - Unique Device Identification system.md)(3) to all relevant devices and ensuring 
 consistency and validity of information provided in accordance with 
-Article&nbsp;29;</p>
+[Article&nbsp;29](../identification and traceability of devices  registration of devices and of economic operators summary of safety  and clinical performance european database on medical devicesArticle 29 - Registration of devices.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -146,7 +146,7 @@ Article&nbsp;29;</p>
          <span>(i)&nbsp;</span>
       </div>
       <div class="grid-list-column-2">
-         <p class="norm">setting-up, implementation and maintenance of a post-market surveillance system, in accordance with Article&nbsp;83;</p>
+         <p class="norm">setting-up, implementation and maintenance of a post-market surveillance system, in accordance with [[Article&nbsp;83](../postmarket surveillanceArticle 83 - Postmarket surveillance system of the manufacturer.md)](../postmarket surveillanceArticle 83 - Postmarket surveillance system of the manufacturer.md);</p>
       </div>
    </div>
    <div class="grid-container grid-list">
@@ -185,7 +185,7 @@ authorities, notified bodies, other economic operators, customers and/or
    </div>
    <p class="norm">10.&nbsp;&nbsp;Manufacturers of devices shall 
 implement and keep up to date the post-market surveillance system in 
-accordance with Article&nbsp;83.</p>
+accordance with [[Article&nbsp;83](../postmarket surveillanceArticle 83 - Postmarket surveillance system of the manufacturer.md)](../postmarket surveillanceArticle 83 - Postmarket surveillance system of the manufacturer.md).</p>
    <p class="norm">11.&nbsp;&nbsp;Manufacturers shall ensure that the 
 device is accompanied by the information set out in Section&nbsp;23 of 
 Annex&nbsp;I in an official Union language(s) determined by the 
@@ -203,7 +203,7 @@ applicable, the authorised representative and importers accordingly.</p>
 manufacturers shall immediately inform the competent authorities of the 
 Member&nbsp;States in which they made the device available and, where 
 applicable, the notified body that issued a certificate for the device 
-in accordance with Article&nbsp;56, in particular, of the non-compliance
+in accordance with [[Article&nbsp;56](../conformity assessmentArticle 56 - Certificates of conformity.md)](../conformity assessmentArticle 56 - Certificates of conformity.md), in particular, of the non-compliance
  and of any corrective action taken.</p>
    <p class="norm">13.&nbsp;&nbsp;Manufacturers shall have a system for 
 recording and reporting of incidents and field safety corrective actions

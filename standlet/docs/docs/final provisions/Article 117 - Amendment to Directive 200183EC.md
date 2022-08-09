@@ -5,8 +5,8 @@ sidebar_position: 116
    <p class="norm">In Annex&nbsp;I to Directive&nbsp;2001/83/EC, point 12 of Section&nbsp;3.2. is replaced by the following:</p>
    <div >
       <p class="norm">‘(12)<span >&nbsp;</span>Where,
- in accordance with the second subparagraph&nbsp;of Article&nbsp;1(8) or
- the second subparagraph&nbsp;of Article&nbsp;1(9) of 
+ in accordance with the second subparagraph&nbsp;of [[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)(8) or
+ the second subparagraph&nbsp;of [[Article&nbsp;1](../scope and definitionsArticle 1 - Subject matter and scope.md)](../scope and definitionsArticle 1 - Subject matter and scope.md)(9) of 
 Regulation&nbsp;(EU)&nbsp;2017/745 of the European Parliament and of the
  Council&nbsp;(<a href="#E0005" id="src.E0005">
             <span class="superscript">*1</span>
