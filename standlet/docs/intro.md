@@ -2,6 +2,6 @@
 slug: /
 ---
 
-# Tutorial Intro
+# Welcome
 
 welcome to my new website

@@ -61,28 +61,17 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       algolia: {
-        // The application ID provided by Algolia
-        appId: 'VAV5CJH9ZY',
-  
-        // Public API key: it is safe to commit it
-        apiKey: 'c427f3cd1975141cf295efa3c2e71ec9',
-  
-        indexName: 'mdr_eu745',
-  
-        // Optional: see doc section below
+        // appId: 'VAV5CJH9ZY',
+        // apiKey: 'c427f3cd1975141cf295efa3c2e71ec9',
+        // indexName: 'mdr_eu745',
+        // contextualSearch: false,
+        // searchParameters: {
+        //   hitsPerPage: 2,
+        // },
+        appId: 'X1Z85QJPUV',
+        apiKey: 'bf7211c161e8205da2f933a02534105a',
+        indexName: 'docusaurus-2',
         contextualSearch: false,
-  
-        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.  
-        // Optional: Algolia search parameters
-        searchParameters: {
-          hitsPerPage: 10,
-        },
-
-        // Optional: path for search page that enabled by default (`false` to disable it)
-        searchPagePath: 'search',
-  
-        //... other Algolia params
-
       },
       navbar: {
         title: 'standlet',
